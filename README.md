@@ -1,2 +1,2 @@
-# leetcode-go
+# leetcode
 ✅ LeetCode 题解
