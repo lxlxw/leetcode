@@ -29,7 +29,7 @@
 ```
 
 ### 解题思路
-![](https://pic.leetcode-cn.com/c61f710e3bca59da3e00034e9553cbd6036adc4cba9e667e98f788d54a9ca1be-file_1558924390364)
+![](http://lc-photo.xwlin.com/9.gif)
 
 ### 代码实现
 

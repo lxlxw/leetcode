@@ -18,7 +18,7 @@
 
 ### 解题思路
 
-![](https://pic.leetcode-cn.com/d54dcd98bf9b8f5f5575893a9c253dda04cb177436322a9b41ce89290deb651d-Messages%20Image(3072076888).png)
+![](http://lc-photo.xwlin.com/1.png)
 
 ### 代码实现
 
