@@ -14,6 +14,13 @@
 
 #### **树**
 
+#### **数学**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+
 #### **字符串**
 
 #### **数组**

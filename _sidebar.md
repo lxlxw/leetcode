@@ -9,4 +9,9 @@
 - 📚&nbsp;&nbsp;题目列表
   - [1.两数之和　✅](solution/1-99/0001.two-sum/)
   - [2.两数相加](solution/1-99/0002.add-two-numbers/)
+  - [7.整数反转　✅](solution/1-99/0007.reverse-integer/)
+  - [9.回文数　✅](solution/1-99/0009.palindrome-number/)
+
+
+  
 

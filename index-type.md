@@ -8,8 +8,8 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [1](https://leetcode-cn.com/problems/two-sum)  |  [两数之和](/solution/1-99/0001.two-sum/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  | ✅ |
-|  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |
-|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |
+|  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |
 |  [14](https://leetcode-cn.com/problems/longest-common-prefix)  |  [最长公共前缀](/solution/1-99/0014.longest-common-prefix/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |
