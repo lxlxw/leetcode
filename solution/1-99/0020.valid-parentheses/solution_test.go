@@ -29,4 +29,11 @@ func TestIsValid(t *testing.T) {
 	if isValid(s) != ret {
 		t.Fatalf("case fails: %v\n", ret)
 	}
+
+	s = ""
+	ret = true
+	fmt.Printf("x = %v ret = %v\n", s, isValid(s))
+	if isValid(s) != ret {
+		t.Fatalf("case fails: %v\n", ret)
+	}
 }

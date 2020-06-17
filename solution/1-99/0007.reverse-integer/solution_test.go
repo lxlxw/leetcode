@@ -28,4 +28,11 @@ func TestReverse(t *testing.T) {
 	if reverse(x) != ret {
 		t.Fatalf("case fails: %v\n", ret)
 	}
+
+	x = 1 << 31
+	ret = 0
+	fmt.Printf("x = %v ret = %v\n", x, reverse(x))
+	if reverse(x) != ret {
+		t.Fatalf("case fails: %v\n", ret)
+	}
 }
