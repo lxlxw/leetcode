@@ -18,4 +18,10 @@ func TestRemoveDuplicates(t *testing.T) {
 	if removeDuplicates(nums2) != ret {
 		t.Fatalf("case fails: %v\n", ret)
 	}
+
+	nums3 := []int{}
+	ret = 0
+	if removeDuplicates(nums3) != ret {
+		t.Fatalf("case fails: %v\n", ret)
+	}
 }
