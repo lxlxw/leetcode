@@ -84,10 +84,5 @@ func isValid(s string) bool {
 	return stack.Len() == 0
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

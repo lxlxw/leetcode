@@ -13,9 +13,9 @@
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [14](https://leetcode-cn.com/problems/longest-common-prefix)  |  [最长公共前缀](/solution/1-99/0014.longest-common-prefix/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |
+|  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
-|  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |
+|  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |
 |  [38](https://leetcode-cn.com/problems/count-and-say)  |  [外观数列](/solution/1-99/0038.count-and-say/)  |  `字符串`  |  <font color=green>简单</font>  |

@@ -70,10 +70,5 @@ func removeDuplicates(nums []int) int {
 	return p
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

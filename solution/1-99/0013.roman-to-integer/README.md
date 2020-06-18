@@ -61,7 +61,7 @@ M             1000</pre>
 1. 先匹配特殊的字符串,匹配到的话`ret`累加
 2. 遍历字符串,如果能在`romanMap`中找到的话`ret`累加
 
-?> 该题解不是最优解！
+?> 说明：该题解不是最优解！
 
 ### 代码实现
 
@@ -107,10 +107,5 @@ func romanToInt(s string) int {
 	return ret
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

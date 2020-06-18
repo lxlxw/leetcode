@@ -13,7 +13,9 @@
   - [9.回文数　✅](solution/1-99/0009.palindrome-number/)
   - [13.罗马数字转整数 ✅](solution/1-99/0013.roman-to-integer/)
   - [20.有效的括号 ✅](solution/1-99/0020.valid-parentheses/)
+  - [21.合并两个有序链表 ✅](solution/1-99/0021.merge-two-sorted-lists/)
   - [26.删除排序数组中的重复项 ✅](solution/1-99/0026.remove-duplicates-from-sorted-array/)
+  - [27.移除元素 ✅](solution/1-99/0027.remove-element/)
 
 
 

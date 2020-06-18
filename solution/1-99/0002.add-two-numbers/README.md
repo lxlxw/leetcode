@@ -29,10 +29,5 @@ func sk() error {
 	return nil
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

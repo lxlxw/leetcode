@@ -37,10 +37,6 @@ func twoSum(nums []int, target int) []int {
 	return []int{}
 }
 ```
-#### **Java**
 
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

@@ -53,10 +53,5 @@ func reverse(x int) int {
 	return ret
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
 
 <!-- tabs:end -->

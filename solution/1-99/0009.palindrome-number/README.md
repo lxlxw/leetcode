@@ -51,10 +51,4 @@ func isPalindrome(x int) bool {
 	return true
 }
 ```
-#### **Java**
-
-#### **Python**
-
-#### **PHP**
-
 <!-- tabs:end -->
