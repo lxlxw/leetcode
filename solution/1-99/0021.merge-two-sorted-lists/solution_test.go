@@ -5,11 +5,6 @@ import (
 	"testing"
 )
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 func TestMergeTwoLists(t *testing.T) {
 
 	t.Run("Test-1-1", func(t *testing.T) {
