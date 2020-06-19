@@ -26,7 +26,7 @@
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |
 |  [70](https://leetcode-cn.com/problems/climbing-stairs)  |  [爬楼梯](/solution/1-99/0070.climbing-stairs/)  |  `动态规划`  |  <font color=green>简单</font>  |
 |  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |
-|  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |
+|  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |
 |  [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  |  [二叉树的最大深度](/solution/100-199/0104.maximum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
@@ -39,7 +39,7 @@
 |  [119](https://leetcode-cn.com/problems/pascals-triangle-ii)  |  [杨辉三角 ii](/solution/100-199/0119.pascal%27s-triangle-ii/)  |  `数组`  |  <font color=green>简单</font>  |
 |  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |
 |  [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)  |  [买卖股票的最佳时机 ii](/solution/100-199/0122.best-time-to-buy-and-sell-stock-ii/)  |  `贪心算法`,`数组`  |  <font color=green>简单</font>  |
-|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |
+|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |
 |  [141](https://leetcode-cn.com/problems/linked-list-cycle)  |  [环形链表](/solution/100-199/0141.linked-list-cycle/)  |  `链表`,`双指针`  |  <font color=green>简单</font>  |
 |  [155](https://leetcode-cn.com/problems/min-stack)  |  [最小栈](/solution/100-199/0155.min-stack/)  |  `栈`,`设计`  |  <font color=green>简单</font>  |
