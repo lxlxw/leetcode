@@ -26,6 +26,7 @@
 |  [1](https://leetcode-cn.com/problems/two-sum)  |  [两数之和](/solution/1-99/0001.two-sum/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  | ✅ |
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+|  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
@@ -58,6 +59,12 @@
 | --- | --- | --- | --- | --- |
 |  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 
+#### **二分查找**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
+
 #### **排序**
 
 #### **队列**
@@ -65,8 +72,6 @@
 #### **位运算**
 
 #### **树**
-
-#### **二分查找**
 
 #### **递归**
 
