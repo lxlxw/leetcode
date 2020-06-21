@@ -28,6 +28,7 @@
 |  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+|  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
 

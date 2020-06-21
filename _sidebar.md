@@ -18,9 +18,9 @@
   - [27.移除元素 ✅](solution/1-99/0027.remove-element/)
   - [28.实现 strStr() ✅](solution/1-99/0028.implement-strstr/)
   - [35.搜索插入位置 ✅](solution/1-99/0035.search-insert-position/)
+  - [66.加一 ✅](solution/1-99/0066.plus-one/)
   - [88.合并两个有序数组](solution/1-99/0088.merge-sorted-array/)
   - [125.验证回文串 ✅](solution/100-199/0125.valid-palindrome/)
-
 
 
 
