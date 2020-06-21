@@ -59,6 +59,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
+|  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 
 #### **二分查找**
 

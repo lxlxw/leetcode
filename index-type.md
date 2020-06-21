@@ -25,7 +25,7 @@
 |  [67](https://leetcode-cn.com/problems/add-binary)  |  [二进制求和](/solution/1-99/0067.add-binary/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |
 |  [70](https://leetcode-cn.com/problems/climbing-stairs)  |  [爬楼梯](/solution/1-99/0070.climbing-stairs/)  |  `动态规划`  |  <font color=green>简单</font>  |
-|  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |
+|  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |
