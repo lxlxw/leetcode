@@ -16,8 +16,9 @@
 | --- | --- | --- | --- | --- |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+
 
 #### **数组**
 
@@ -27,8 +28,9 @@
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
-|  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
+|  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+
 
 #### **哈希表**
 
@@ -50,9 +52,10 @@
 | --- | --- | --- | --- | --- |
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+|  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+
 
 #### **链表**
 
