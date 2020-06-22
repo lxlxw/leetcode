@@ -22,6 +22,9 @@
   - [83.删除排序链表中的重复元素 ✅](solution/1-99/0083.remove-duplicates-from-sorted-list/)
   - [88.合并两个有序数组 ✅](solution/1-99/0088.merge-sorted-array/)
   - [125.验证回文串 ✅](solution/100-199/0125.valid-palindrome/)
+  - [217.存在重复元素 ✅](solution/200-299/0217.contains-duplicate/)
+  - [219.存在重复元素 II ✅](solution/200-299/0219.contains-duplicate-ii/)
+  
 
 
 

@@ -69,8 +69,8 @@
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |
 |  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |
 |  [206](https://leetcode-cn.com/problems/reverse-linked-list)  |  [反转链表](/solution/200-299/0206.reverse-linked-list/)  |  `链表`  |  <font color=green>简单</font>  |
-|  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |
-|  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |
+|  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [225](https://leetcode-cn.com/problems/implement-stack-using-queues)  |  [用队列实现栈](/solution/200-299/0225.implement-stack-using-queues/)  |  `栈`,`设计`  |  <font color=green>简单</font>  |
 |  [226](https://leetcode-cn.com/problems/invert-binary-tree)  |  [翻转二叉树](/solution/200-299/0226.invert-binary-tree/)  |  `树`  |  <font color=green>简单</font>  |
 |  [231](https://leetcode-cn.com/problems/power-of-two)  |  [2的幂](/solution/200-299/0231.power-of-two/)  |  `位运算`,`数学`  |  <font color=green>简单</font>  |
