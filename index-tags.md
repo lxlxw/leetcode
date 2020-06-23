@@ -32,6 +32,7 @@
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
 
@@ -79,6 +80,10 @@
 
 #### **位运算**
 
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
+
 #### **树**
 
 #### **递归**
@@ -94,6 +99,10 @@
 #### **动态规划**
 
 #### **分治算法**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 
 #### **回溯算法**
 
