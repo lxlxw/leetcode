@@ -21,6 +21,7 @@
   - [66.加一](solution/1-99/0066.plus-one/)
   - [83.删除排序链表中的重复元素](solution/1-99/0083.remove-duplicates-from-sorted-list/)
   - [88.合并两个有序数组](solution/1-99/0088.merge-sorted-array/)
+  - [118.杨辉三角](solution/100-199/0118.pascals-triangle/)
   - [125.验证回文串](solution/100-199/0125.valid-palindrome/)
   - [169.多数元素](solution/100-199/0169.majority-element/)
   - [217.存在重复元素](solution/200-299/0217.contains-duplicate/)

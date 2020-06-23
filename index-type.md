@@ -35,7 +35,7 @@
 |  [110](https://leetcode-cn.com/problems/balanced-binary-tree)  |  [平衡二叉树](/solution/100-199/0110.balanced-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
 |  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |
 |  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
-|  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |
+|  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [119](https://leetcode-cn.com/problems/pascals-triangle-ii)  |  [杨辉三角 ii](/solution/100-199/0119.pascal%27s-triangle-ii/)  |  `数组`  |  <font color=green>简单</font>  |
 |  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |
 |  [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)  |  [买卖股票的最佳时机 ii](/solution/100-199/0122.best-time-to-buy-and-sell-stock-ii/)  |  `贪心算法`,`数组`  |  <font color=green>简单</font>  |

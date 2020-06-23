@@ -2,24 +2,6 @@
 
 <!-- tabs:start -->
 
-#### **数学**
-
-|  题号  |  题解  |  标签  | 难度  | 是否解题 |
-| --- | --- | --- | --- | --- |
-|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
-|  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
-|  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
-
-#### **字符串**
-
-|  题号  |  题解  |  标签  | 难度  | 是否解题 |
-| --- | --- | --- | --- | --- |
-|  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
-
-
 #### **数组**
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
@@ -30,10 +12,29 @@
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+|  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+
+
+#### **字符串**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+
+#### **数学**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
 
