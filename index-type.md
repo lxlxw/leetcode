@@ -45,7 +45,7 @@
 |  [155](https://leetcode-cn.com/problems/min-stack)  |  [最小栈](/solution/100-199/0155.min-stack/)  |  `栈`,`设计`  |  <font color=green>简单</font>  |
 |  [157](https://leetcode-cn.com/problems/read-n-characters-given-read4)  |  [用 read4 读取 n 个字符](/solution/100-199/0157.read-n-characters-given-read4/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)  |  [相交链表](/solution/100-199/0160.intersection-of-two-linked-lists/)  |  `链表`  |  <font color=green>简单</font>  |
-|  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |
+|  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [168](https://leetcode-cn.com/problems/excel-sheet-column-title)  |  [excel表列名称](/solution/100-199/0168.excel-sheet-column-title/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [170](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design)  |  [两数之和 iii - 数据结构设计](/solution/100-199/0170.two-sum-iii---data-structure-design/)  |  `设计`,`哈希表`  |  <font color=green>简单</font>  |

@@ -23,6 +23,7 @@
   - [88.合并两个有序数组](solution/1-99/0088.merge-sorted-array/)
   - [118.杨辉三角](solution/100-199/0118.pascals-triangle/)
   - [125.验证回文串](solution/100-199/0125.valid-palindrome/)
+  - [167.两数之和 II - 输入有序数组](solution/100-199/0167.two-sum-ii-input-array-is-sorted/)
   - [169.多数元素](solution/100-199/0169.majority-element/)
   - [217.存在重复元素](solution/200-299/0217.contains-duplicate/)
   - [219.存在重复元素 II](solution/200-299/0219.contains-duplicate-ii/)
