@@ -91,7 +91,7 @@
 |  [270](https://leetcode-cn.com/problems/closest-binary-search-tree-value)  |  [最接近的二叉搜索树值](/solution/200-299/0270.closest-binary-search-tree-value/)  |  `树`,`二分查找`  |  <font color=green>简单</font>  |
 |  [276](https://leetcode-cn.com/problems/paint-fence)  |  [栅栏涂色](/solution/200-299/0276.paint-fence/)  |  `动态规划`  |  <font color=green>简单</font>  |
 |  [278](https://leetcode-cn.com/problems/first-bad-version)  |  [第一个错误的版本](/solution/200-299/0278.first-bad-version/)  |  `二分查找`  |  <font color=green>简单</font>  |
-|  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |
+|  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [290](https://leetcode-cn.com/problems/word-pattern)  |  [单词规律](/solution/200-299/0290.word-pattern/)  |  `哈希表`  |  <font color=green>简单</font>  |
 |  [292](https://leetcode-cn.com/problems/nim-game)  |  [nim 游戏](/solution/200-299/0292.nim-game/)  |  `脑筋急转弯`,`极小化极大`  |  <font color=green>简单</font>  |
 |  [293](https://leetcode-cn.com/problems/flip-game)  |  [翻转游戏](/solution/200-299/0293.flip-game/)  |  `字符串`  |  <font color=green>简单</font>  |

@@ -25,6 +25,7 @@
   - [169.多数元素](solution/100-199/0169.majority-element/)
   - [217.存在重复元素](solution/200-299/0217.contains-duplicate/)
   - [219.存在重复元素 II](solution/200-299/0219.contains-duplicate-ii/)
+  - [283.移动零](solution/200-299/0283.move-zeroes/)
   
 
 
