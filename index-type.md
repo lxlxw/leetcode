@@ -44,7 +44,7 @@
 |  [141](https://leetcode-cn.com/problems/linked-list-cycle)  |  [环形链表](/solution/100-199/0141.linked-list-cycle/)  |  `链表`,`双指针`  |  <font color=green>简单</font>  |
 |  [155](https://leetcode-cn.com/problems/min-stack)  |  [最小栈](/solution/100-199/0155.min-stack/)  |  `栈`,`设计`  |  <font color=green>简单</font>  |
 |  [157](https://leetcode-cn.com/problems/read-n-characters-given-read4)  |  [用 read4 读取 n 个字符](/solution/100-199/0157.read-n-characters-given-read4/)  |  `字符串`  |  <font color=green>简单</font>  |
-|  [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)  |  [相交链表](/solution/100-199/0160.intersection-of-two-linked-lists/)  |  `链表`  |  <font color=green>简单</font>  |
+|  [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)  |  [相交链表](/solution/100-199/0160.intersection-of-two-linked-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [168](https://leetcode-cn.com/problems/excel-sheet-column-title)  |  [excel表列名称](/solution/100-199/0168.excel-sheet-column-title/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
@@ -56,7 +56,7 @@
 |  [181](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)  |  [超过经理收入的员工](/solution/100-199/0181.employees-earning-more-than-their-managers/)  |    |  <font color=green>简单</font>  |
 |  [182](https://leetcode-cn.com/problems/duplicate-emails)  |  [查找重复的电子邮箱](/solution/100-199/0182.duplicate-emails/)  |    |  <font color=green>简单</font>  |
 |  [183](https://leetcode-cn.com/problems/customers-who-never-order)  |  [从不订购的客户](/solution/100-199/0183.customers-who-never-order/)  |    |  <font color=green>简单</font>  |
-|  [189](https://leetcode-cn.com/problems/rotate-array)  |  [旋转数组](/solution/100-199/0189.rotate-array/)  |  `数组`  |  <font color=green>简单</font>  |
+|  [189](https://leetcode-cn.com/problems/rotate-array)  |  [旋转数组](/solution/100-199/0189.rotate-array/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [190](https://leetcode-cn.com/problems/reverse-bits)  |  [颠倒二进制位](/solution/100-199/0190.reverse-bits/)  |  `位运算`  |  <font color=green>简单</font>  |
 |  [191](https://leetcode-cn.com/problems/number-of-1-bits)  |  [位1的个数](/solution/100-199/0191.number-of-1-bits/)  |  `位运算`  |  <font color=green>简单</font>  |
 |  [193](https://leetcode-cn.com/problems/valid-phone-numbers)  |  [有效电话号码](/solution/100-199/0193.valid-phone-numbers/)  |    |  <font color=green>简单</font>  |
@@ -87,7 +87,7 @@
 |  [258](https://leetcode-cn.com/problems/add-digits)  |  [各位相加](/solution/200-299/0258.add-digits/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [263](https://leetcode-cn.com/problems/ugly-number)  |  [丑数](/solution/200-299/0263.ugly-number/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [266](https://leetcode-cn.com/problems/palindrome-permutation)  |  [回文排列](/solution/200-299/0266.palindrome-permutation/)  |  `哈希表`  |  <font color=green>简单</font>  |
-|  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |
+|  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [270](https://leetcode-cn.com/problems/closest-binary-search-tree-value)  |  [最接近的二叉搜索树值](/solution/200-299/0270.closest-binary-search-tree-value/)  |  `树`,`二分查找`  |  <font color=green>简单</font>  |
 |  [276](https://leetcode-cn.com/problems/paint-fence)  |  [栅栏涂色](/solution/200-299/0276.paint-fence/)  |  `动态规划`  |  <font color=green>简单</font>  |
 |  [278](https://leetcode-cn.com/problems/first-bad-version)  |  [第一个错误的版本](/solution/200-299/0278.first-bad-version/)  |  `二分查找`  |  <font color=green>简单</font>  |
