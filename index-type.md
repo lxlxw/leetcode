@@ -100,8 +100,8 @@
 |  [326](https://leetcode-cn.com/problems/power-of-three)  |  [3的幂](/solution/300-399/0326.power-of-three/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [339](https://leetcode-cn.com/problems/nested-list-weight-sum)  |  [嵌套列表权重和](/solution/300-399/0339.nested-list-weight-sum/)  |  `深度优先搜索`  |  <font color=green>简单</font>  |
 |  [342](https://leetcode-cn.com/problems/power-of-four)  |  [4的幂](/solution/300-399/0342.power-of-four/)  |  `位运算`  |  <font color=green>简单</font>  |
-|  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |
-|  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |
+|  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [346](https://leetcode-cn.com/problems/moving-average-from-data-stream)  |  [数据流中的移动平均值](/solution/300-399/0346.moving-average-from-data-stream/)  |  `设计`,`队列`  |  <font color=green>简单</font>  |
 |  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |
 |  [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)  |  [两个数组的交集 ii](/solution/300-399/0350.intersection-of-two-arrays-ii/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |

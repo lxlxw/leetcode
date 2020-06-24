@@ -9,7 +9,7 @@ package leetcode
 // @lc code=start
 func missingNumber(nums []int) int {
 	sum1, sum2 := len(nums), 0
-	for i, _ := range nums {
+	for i := range nums {
 		sum1 += i
 		sum2 += nums[i]
 	}

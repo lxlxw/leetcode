@@ -30,6 +30,8 @@
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 
 #### **数学**
 
@@ -68,7 +70,8 @@
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
-
+|  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 
 #### **链表**
 
