@@ -5,6 +5,8 @@
 [![Travis](https://www.travis-ci.org/lxlxw/leetcode.svg?branch=master)](https://www.travis-ci.org/lxlxw/leetcode)
 [![Codecov](https://codecov.io/gh/lxlxw/leetcode/branch/master/graph/badge.svg)](https://codecov.io/gh/lxlxw/leetcode)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Go](https://img.shields.io/badge/Go-1.12-blue.svg)](https://golang.google.cn)
+[![Go](https://img.shields.io/badge/Go-1.13-blue.svg)](https://golang.google.cn)
 [![HitCount](http://hits.dwyl.com/lxlxw/leetcode.svg)](http://hits.dwyl.com/lxlxw/leetcode)
 
 [ [中文](http://leetcode.xwlin.com)
