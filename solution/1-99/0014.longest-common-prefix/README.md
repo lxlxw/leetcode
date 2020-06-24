@@ -1,6 +1,6 @@
 # [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>编写一个函数来查找字符串数组中的最长公共前缀。</p>
 

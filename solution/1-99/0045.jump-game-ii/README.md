@@ -1,6 +1,6 @@
 # [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个非负整数数组，你最初位于数组的第一个位置。</p>
 

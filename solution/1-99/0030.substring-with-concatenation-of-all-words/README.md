@@ -1,6 +1,6 @@
 # [30. 串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个字符串&nbsp;<strong>s&nbsp;</strong>和一些长度相同的单词&nbsp;<strong>words。</strong>找出 <strong>s </strong>中恰好可以由&nbsp;<strong>words </strong>中所有单词串联形成的子串的起始位置。</p>
 

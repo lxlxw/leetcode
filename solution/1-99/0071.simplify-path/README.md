@@ -1,6 +1,6 @@
 # [71. 简化路径](https://leetcode-cn.com/problems/simplify-path)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>以 Unix 风格给出一个文件的<strong>绝对路径</strong>，你需要简化它。或者换句话说，将其转换为规范路径。</p>
 

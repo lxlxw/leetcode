@@ -1,7 +1,7 @@
 # [10. 正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching)
 
-## 题目描述
-<!-- 这里写题目描述 -->
+### 题目描述
+
 <p>给你一个字符串&nbsp;<code>s</code>&nbsp;和一个字符规律&nbsp;<code>p</code>，请你来实现一个支持 <code>&#39;.&#39;</code>&nbsp;和&nbsp;<code>&#39;*&#39;</code>&nbsp;的正则表达式匹配。</p>
 
 <pre>&#39;.&#39; 匹配任意单个字符

@@ -1,7 +1,7 @@
 # [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)
 
-## 题目描述
-<!-- 这里写题目描述 -->
+### 题目描述
+
 <p>给定一个字符串 <code>s</code>，找到 <code>s</code> 中最长的回文子串。你可以假设&nbsp;<code>s</code> 的最大长度为 1000。</p>
 
 <p><strong>示例 1：</strong></p>

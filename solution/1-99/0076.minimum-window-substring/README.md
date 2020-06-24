@@ -1,6 +1,6 @@
 # [76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给你一个字符串 S、一个字符串 T，请在字符串 S 里面找出：包含 T 所有字母的最小子串。</p>
 

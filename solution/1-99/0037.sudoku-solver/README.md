@@ -1,6 +1,6 @@
 # [37. 解数独](https://leetcode-cn.com/problems/sudoku-solver)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>编写一个程序，通过已填充的空格来解决数独问题。</p>
 

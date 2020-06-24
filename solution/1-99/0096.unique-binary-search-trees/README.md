@@ -1,6 +1,6 @@
 # [96. 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个整数 <em>n</em>，求以&nbsp;1 ...&nbsp;<em>n</em>&nbsp;为节点组成的二叉搜索树有多少种？</p>
 

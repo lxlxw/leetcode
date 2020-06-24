@@ -1,6 +1,6 @@
 # [99. 恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>二叉搜索树中的两个节点被错误地交换。</p>
 

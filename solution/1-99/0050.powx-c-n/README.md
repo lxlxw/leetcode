@@ -1,6 +1,6 @@
 # [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>实现&nbsp;<a href="https://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>&nbsp;，即计算 x 的 n 次幂函数。</p>
 

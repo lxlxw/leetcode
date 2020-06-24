@@ -1,6 +1,6 @@
 # [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个仅包含数字&nbsp;<code>2-9</code>&nbsp;的字符串，返回所有它能表示的字母组合。</p>
 

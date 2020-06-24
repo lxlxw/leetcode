@@ -1,6 +1,6 @@
 # [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>判断一个&nbsp;9x9 的数独是否有效。只需要<strong>根据以下规则</strong>，验证已经填入的数字是否有效即可。</p>
 

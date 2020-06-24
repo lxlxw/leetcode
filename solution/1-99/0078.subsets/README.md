@@ -1,6 +1,6 @@
 # [78. 子集](https://leetcode-cn.com/problems/subsets)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一组<strong>不含重复元素</strong>的整数数组&nbsp;<em>nums</em>，返回该数组所有可能的子集（幂集）。</p>
 

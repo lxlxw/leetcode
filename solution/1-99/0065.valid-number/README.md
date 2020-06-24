@@ -1,6 +1,6 @@
 # [65. 有效数字](https://leetcode-cn.com/problems/valid-number)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>验证给定的字符串是否可以解释为十进制数字。</p>
 

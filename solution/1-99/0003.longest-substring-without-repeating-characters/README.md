@@ -1,7 +1,7 @@
 # [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)
 
-## 题目描述
-<!-- 这里写题目描述 -->
+### 题目描述
+
 <p>给定一个字符串，请你找出其中不含有重复字符的&nbsp;<strong>最长子串&nbsp;</strong>的长度。</p>
 
 <p><strong>示例&nbsp;1:</strong></p>

@@ -1,6 +1,6 @@
 # [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个未排序的整数数组，找出其中没有出现的最小的正整数。</p>
 

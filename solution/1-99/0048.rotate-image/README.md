@@ -1,6 +1,6 @@
 # [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image)
 
-## 题目描述
+### 题目描述
 <!-- 这里写题目描述 -->
 <p>给定一个 <em>n&nbsp;</em>&times;&nbsp;<em>n</em> 的二维矩阵表示一个图像。</p>
 
