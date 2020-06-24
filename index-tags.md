@@ -33,8 +33,9 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
-|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [2](https://leetcode-cn.com/problems/add-two-numbers)  |  [两数相加](/solution/1-99/0002.add-two-numbers/)  |  `链表`,`数学`  |  <font color=blue>中等</font>  |✅ |
 |  [7](https://leetcode-cn.com/problems/reverse-integer)  |  [整数反转](/solution/1-99/0007.reverse-integer/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
+|  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
@@ -70,6 +71,7 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
+|  [2](https://leetcode-cn.com/problems/add-two-numbers)  |  [两数相加](/solution/1-99/0002.add-two-numbers/)  |  `链表`,`数学`  |  <font color=blue>中等</font>  |✅ |
 |  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 |  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 
