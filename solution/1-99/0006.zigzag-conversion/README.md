@@ -41,12 +41,10 @@ T     S     G</pre>
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
 
 ```
 
-<!-- tabs:end -->
 

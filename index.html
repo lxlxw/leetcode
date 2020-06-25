@@ -32,7 +32,7 @@
       auto2top: true,
       executeScript: true,
       loadSidebar: true,
-      loadNavbar: true,
+      // loadNavbar: true,
       mergeNavbar: true,
       maxLevel: 4,
       subMaxLevel: 2,
@@ -57,7 +57,7 @@
           hook.beforeEach(function (html) {
             url = 'https://github.com/lxlxw/leetcode/blob/master/' + vm.route.file
             
-            var editHtml = '[:memo: 在 GitHub 编辑本页](' + url + ')\n'
+            var editHtml = '[📝 在 GitHub 编辑本页](' + url + ')\n'
 
             return editHtml
               + html

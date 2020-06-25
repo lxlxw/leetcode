@@ -22,7 +22,6 @@
 
 ### 代码实现
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
@@ -37,6 +36,3 @@ func twoSum(nums []int, target int) []int {
 	return []int{}
 }
 ```
-
-
-<!-- tabs:end -->

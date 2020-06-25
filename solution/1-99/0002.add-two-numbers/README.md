@@ -22,7 +22,6 @@
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
@@ -53,5 +52,3 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return dummy.Next
 }
 ```
-
-<!-- tabs:end -->

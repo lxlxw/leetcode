@@ -35,7 +35,6 @@
 
 ### 代码实现
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
@@ -53,5 +52,3 @@ func reverse(x int) int {
 	return ret
 }
 ```
-
-<!-- tabs:end -->

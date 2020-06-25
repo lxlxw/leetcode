@@ -31,12 +31,10 @@ nums2 = [3, 4]
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
 
 ```
 
-<!-- tabs:end -->
 
