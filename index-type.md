@@ -20,7 +20,7 @@
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [38](https://leetcode-cn.com/problems/count-and-say)  |  [外观数列](/solution/1-99/0038.count-and-say/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  |  [最大子序和](/solution/1-99/0053.maximum-subarray/)  |  `数组`,`分治算法`,`动态规划`  |  <font color=green>简单</font>  |
-|  [58](https://leetcode-cn.com/problems/length-of-last-word)  |  [最后一个单词的长度](/solution/1-99/0058.length-of-last-word/)  |  `字符串`  |  <font color=green>简单</font>  |
+|  [58](https://leetcode-cn.com/problems/length-of-last-word)  |  [最后一个单词的长度](/solution/1-99/0058.length-of-last-word/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [67](https://leetcode-cn.com/problems/add-binary)  |  [二进制求和](/solution/1-99/0067.add-binary/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |
@@ -136,7 +136,7 @@
 |  [475](https://leetcode-cn.com/problems/heaters)  |  [供暖器](/solution/400-499/0475.heaters/)  |  `二分查找`  |  <font color=green>简单</font>  |
 |  [476](https://leetcode-cn.com/problems/number-complement)  |  [数字的补数](/solution/400-499/0476.number-complement/)  |  `位运算`  |  <font color=green>简单</font>  |
 |  [482](https://leetcode-cn.com/problems/license-key-formatting)  |  [密钥格式化](/solution/400-499/0482.license-key-formatting/)  |    |  <font color=green>简单</font>  |
-|  [485](https://leetcode-cn.com/problems/max-consecutive-ones)  |  [最大连续1的个数](/solution/400-499/0485.max-consecutive-ones/)  |  `数组`  |  <font color=green>简单</font>  |
+|  [485](https://leetcode-cn.com/problems/max-consecutive-ones)  |  [最大连续1的个数](/solution/400-499/0485.max-consecutive-ones/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [492](https://leetcode-cn.com/problems/construct-the-rectangle)  |  [构造矩形](/solution/400-499/0492.construct-the-rectangle/)  |    |  <font color=green>简单</font>  |
 |  [496](https://leetcode-cn.com/problems/next-greater-element-i)  |  [下一个更大元素 i](/solution/400-499/0496.next-greater-element-i/)  |  `栈`  |  <font color=green>简单</font>  |
 |  [500](https://leetcode-cn.com/problems/keyboard-row)  |  [键盘行](/solution/500-599/0500.keyboard-row/)  |  `哈希表`  |  <font color=green>简单</font>  |

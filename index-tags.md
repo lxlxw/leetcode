@@ -21,6 +21,7 @@
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [414](https://leetcode-cn.com/problems/third-maximum-number)  |  [第三大的数](/solution/400-499/0414.third-maximum-number/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
+|  [485](https://leetcode-cn.com/problems/max-consecutive-ones)  |  [最大连续1的个数](/solution/400-499/0485.max-consecutive-ones/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 
 #### **字符串**
 
@@ -29,6 +30,7 @@
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [58](https://leetcode-cn.com/problems/length-of-last-word)  |  [最后一个单词的长度](/solution/1-99/0058.length-of-last-word/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |

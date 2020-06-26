@@ -91,7 +91,7 @@
     - [482. 密钥格式化](solution/400-499/0482.license-key-formatting/)
     - [483. 最小好进制](solution/400-499/0483.smallest-good-base/)
     - [484. 寻找排列](solution/400-499/0484.find-permutation/)
-    - [485. 最大连续1的个数](solution/400-499/0485.max-consecutive-ones/)
+    - [485. 最大连续1的个数 ✅](solution/400-499/0485.max-consecutive-ones/)
     - [486. 预测赢家](solution/400-499/0486.predict-the-winner/)
     - [487. 最大连续1的个数 ii](solution/400-499/0487.max-consecutive-ones-ii/)
     - [488. 祖玛游戏](solution/400-499/0488.zuma-game/)
