@@ -20,7 +20,7 @@
     - [12. 整数转罗马数字](solution/1-99/0012.integer-to-roman/)
     - [13. 罗马数字转整数 ✅](solution/1-99/0013.roman-to-integer/)
     - [14. 最长公共前缀](solution/1-99/0014.longest-common-prefix/)
-    - [15. 三数之和](solution/1-99/0015.3sum/)
+    - [15. 三数之和 ✅](solution/1-99/0015.3sum/)
     - [16. 最接近的三数之和](solution/1-99/0016.3sum-closest/)
     - [17. 电话号码的字母组合](solution/1-99/0017.letter-combinations-of-a-phone-number/)
     - [18. 四数之和](solution/1-99/0018.4sum/)

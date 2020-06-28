@@ -412,7 +412,7 @@
 |  [8](https://leetcode-cn.com/problems/string-to-integer-atoi)  |  [字符串转换整数 (atoi)](/solution/1-99/0008.string-to-integer-%28atoi%29/)  |  `数学`,`字符串`  |  <font color=blue>中等</font>  |
 |  [11](https://leetcode-cn.com/problems/container-with-most-water)  |  [盛最多水的容器](/solution/1-99/0011.container-with-most-water/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [12](https://leetcode-cn.com/problems/integer-to-roman)  |  [整数转罗马数字](/solution/1-99/0012.integer-to-roman/)  |  `数学`,`字符串`  |  <font color=blue>中等</font>  |
-|  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](/solution/1-99/0015.3sum/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |
+|  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](/solution/1-99/0015.3sum/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [16](https://leetcode-cn.com/problems/3sum-closest)  |  [最接近的三数之和](/solution/1-99/0016.3sum-closest/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |
 |  [17](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)  |  [电话号码的字母组合](/solution/1-99/0017.letter-combinations-of-a-phone-number/)  |  `字符串`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [18](https://leetcode-cn.com/problems/4sum)  |  [四数之和](/solution/1-99/0018.4sum/)  |  `数组`,`哈希表`,`双指针`  |  <font color=blue>中等</font>  |
