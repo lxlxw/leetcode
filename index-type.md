@@ -64,7 +64,7 @@
 |  [196](https://leetcode-cn.com/problems/delete-duplicate-emails)  |  [删除重复的电子邮箱](/solution/100-199/0196.delete-duplicate-emails/)  |    |  <font color=green>简单</font>  |
 |  [197](https://leetcode-cn.com/problems/rising-temperature)  |  [上升的温度](/solution/100-199/0197.rising-temperature/)  |    |  <font color=green>简单</font>  |
 |  [198](https://leetcode-cn.com/problems/house-robber)  |  [打家劫舍](/solution/100-199/0198.house-robber/)  |  `动态规划`  |  <font color=green>简单</font>  |
-|  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |
+|  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [203](https://leetcode-cn.com/problems/remove-linked-list-elements)  |  [移除链表元素](/solution/200-299/0203.remove-linked-list-elements/)  |  `链表`  |  <font color=green>简单</font>  |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |
 |  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |
