@@ -66,7 +66,7 @@
 |  [198](https://leetcode-cn.com/problems/house-robber)  |  [打家劫舍](/solution/100-199/0198.house-robber/)  |  `动态规划`  |  <font color=green>简单</font>  |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [203](https://leetcode-cn.com/problems/remove-linked-list-elements)  |  [移除链表元素](/solution/200-299/0203.remove-linked-list-elements/)  |  `链表`  |  <font color=green>简单</font>  |
-|  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |
+|  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |
 |  [206](https://leetcode-cn.com/problems/reverse-linked-list)  |  [反转链表](/solution/200-299/0206.reverse-linked-list/)  |  `链表`  |  <font color=green>简单</font>  |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
@@ -430,7 +430,7 @@
 |  [46](https://leetcode-cn.com/problems/permutations)  |  [全排列](/solution/1-99/0046.permutations/)  |  `回溯算法`  |  <font color=blue>中等</font>  |
 |  [47](https://leetcode-cn.com/problems/permutations-ii)  |  [全排列 ii](/solution/1-99/0047.permutations-ii/)  |  `回溯算法`  |  <font color=blue>中等</font>  |
 |  [48](https://leetcode-cn.com/problems/rotate-image)  |  [旋转图像](/solution/1-99/0048.rotate-image/)  |  `数组`  |  <font color=blue>中等</font>  |
-|  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |
+|  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |
 |  [54](https://leetcode-cn.com/problems/spiral-matrix)  |  [螺旋矩阵](/solution/1-99/0054.spiral-matrix/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |
@@ -504,7 +504,7 @@
 |  [180](https://leetcode-cn.com/problems/consecutive-numbers)  |  [连续出现的数字](/solution/100-199/0180.consecutive-numbers/)  |    |  <font color=blue>中等</font>  |
 |  [184](https://leetcode-cn.com/problems/department-highest-salary)  |  [部门工资最高的员工](/solution/100-199/0184.department-highest-salary/)  |    |  <font color=blue>中等</font>  |
 |  [186](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii)  |  [翻转字符串里的单词 ii](/solution/100-199/0186.reverse-words-in-a-string-ii/)  |  `字符串`  |  <font color=blue>中等</font>  |
-|  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |
+|  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [192](https://leetcode-cn.com/problems/word-frequency)  |  [统计词频](/solution/100-199/0192.word-frequency/)  |    |  <font color=blue>中等</font>  |
 |  [194](https://leetcode-cn.com/problems/transpose-file)  |  [转置文件](/solution/100-199/0194.transpose-file/)  |    |  <font color=blue>中等</font>  |
 |  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |

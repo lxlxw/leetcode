@@ -32,6 +32,7 @@
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [58](https://leetcode-cn.com/problems/length-of-last-word)  |  [最后一个单词的长度](/solution/1-99/0058.length-of-last-word/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
@@ -46,6 +47,7 @@
 |  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
+|  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
@@ -54,8 +56,11 @@
 | --- | --- | --- | --- | --- |
 |  [1](https://leetcode-cn.com/problems/two-sum)  |  [两数之和](/solution/1-99/0001.two-sum/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  | ✅ |
 |  [36](https://leetcode-cn.com/problems/valid-sudoku)  |  [有效的数独](/solution/1-99/0036.valid-sudoku/)  |  `哈希表`  |  <font color=blue>中等</font>  |✅ |
+|  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
+|  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 
@@ -109,6 +114,7 @@
 | --- | --- | --- | --- | --- |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
+|  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 
 #### **树**

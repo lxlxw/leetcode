@@ -93,7 +93,7 @@
     - [184. 部门工资最高的员工](solution/100-199/0184.department-highest-salary/)
     - [185. 部门工资前三高的所有员工](solution/100-199/0185.department-top-three-salaries/)
     - [186. 翻转字符串里的单词 ii](solution/100-199/0186.reverse-words-in-a-string-ii/)
-    - [187. 重复的dna序列](solution/100-199/0187.repeated-dna-sequences/)
+    - [187. 重复的dna序列 ✅](solution/100-199/0187.repeated-dna-sequences/)
     - [188. 买卖股票的最佳时机 iv](solution/100-199/0188.best-time-to-buy-and-sell-stock-iv/)
     - [189. 旋转数组 ✅](solution/100-199/0189.rotate-array/)
     - [190. 颠倒二进制位](solution/100-199/0190.reverse-bits/)
