@@ -423,7 +423,7 @@
 |  [31](https://leetcode-cn.com/problems/next-permutation)  |  [下一个排列](/solution/1-99/0031.next-permutation/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [33](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)  |  [搜索旋转排序数组](/solution/1-99/0033.search-in-rotated-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |
 |  [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |  [在排序数组中查找元素的第一个和最后一个位置](/solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |
-|  [36](https://leetcode-cn.com/problems/valid-sudoku)  |  [有效的数独](/solution/1-99/0036.valid-sudoku/)  |  `哈希表`  |  <font color=blue>中等</font>  |
+|  [36](https://leetcode-cn.com/problems/valid-sudoku)  |  [有效的数独](/solution/1-99/0036.valid-sudoku/)  |  `哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [39](https://leetcode-cn.com/problems/combination-sum)  |  [组合总和](/solution/1-99/0039.combination-sum/)  |  `数组`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [40](https://leetcode-cn.com/problems/combination-sum-ii)  |  [组合总和 ii](/solution/1-99/0040.combination-sum-ii/)  |  `数组`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [43](https://leetcode-cn.com/problems/multiply-strings)  |  [字符串相乘](/solution/1-99/0043.multiply-strings/)  |  `数学`,`字符串`  |  <font color=blue>中等</font>  |

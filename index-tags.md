@@ -52,6 +52,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [1](https://leetcode-cn.com/problems/two-sum)  |  [两数之和](/solution/1-99/0001.two-sum/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  | ✅ |
+|  [36](https://leetcode-cn.com/problems/valid-sudoku)  |  [有效的数独](/solution/1-99/0036.valid-sudoku/)  |  `哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |

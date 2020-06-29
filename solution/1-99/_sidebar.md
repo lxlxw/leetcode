@@ -41,7 +41,7 @@
     - [33. 搜索旋转排序数组](solution/1-99/0033.search-in-rotated-sorted-array/)
     - [34. 在排序数组中查找元素的第一个和最后一个位置](solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)
     - [35. 搜索插入位置 ✅](solution/1-99/0035.search-insert-position/)
-    - [36. 有效的数独](solution/1-99/0036.valid-sudoku/)
+    - [36. 有效的数独 ✅](solution/1-99/0036.valid-sudoku/)
     - [37. 解数独](solution/1-99/0037.sudoku-solver/)
     - [38. 外观数列](solution/1-99/0038.count-and-say/)
     - [39. 组合总和](solution/1-99/0039.combination-sum/)

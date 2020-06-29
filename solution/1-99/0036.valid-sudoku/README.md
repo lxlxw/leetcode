@@ -1,7 +1,7 @@
 # [36. 有效的数独](https://leetcode-cn.com/problems/valid-sudoku)
 
 ### 题目描述
-<!-- 这里写题目描述 -->
+
 <p>判断一个&nbsp;9x9 的数独是否有效。只需要<strong>根据以下规则</strong>，验证已经填入的数字是否有效即可。</p>
 
 <ol>
@@ -67,12 +67,33 @@
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
-
+func isValidSudoku(board [][]byte) bool {
+	// ascii 1-9 = 48-57
+	var row, col, block [9][58]bool
+	for k, nums := range board {
+		for i, v := range nums {
+			if v == '.' {
+				continue
+			}
+			if row[i][v] {
+				return false
+			}
+			if col[k][v] {
+				return false
+			}
+			if block[i/3+k/3*3][v] {
+				return false
+			}
+			row[i][v] = true
+			col[k][v] = true
+			block[i/3+k/3*3][v] = true
+		}
+	}
+	return true
+}
 ```
 
-<!-- tabs:end -->
 
