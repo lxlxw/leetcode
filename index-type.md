@@ -40,7 +40,7 @@
 |  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |
 |  [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)  |  [买卖股票的最佳时机 ii](/solution/100-199/0122.best-time-to-buy-and-sell-stock-ii/)  |  `贪心算法`,`数组`  |  <font color=green>简单</font>  |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
-|  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |
+|  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [141](https://leetcode-cn.com/problems/linked-list-cycle)  |  [环形链表](/solution/100-199/0141.linked-list-cycle/)  |  `链表`,`双指针`  |  <font color=green>简单</font>  |
 |  [155](https://leetcode-cn.com/problems/min-stack)  |  [最小栈](/solution/100-199/0155.min-stack/)  |  `栈`,`设计`  |  <font color=green>简单</font>  |
 |  [157](https://leetcode-cn.com/problems/read-n-characters-given-read4)  |  [用 read4 读取 n 个字符](/solution/100-199/0157.read-n-characters-given-read4/)  |  `字符串`  |  <font color=green>简单</font>  |
@@ -127,7 +127,7 @@
 |  [441](https://leetcode-cn.com/problems/arranging-coins)  |  [排列硬币](/solution/400-499/0441.arranging-coins/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |
 |  [443](https://leetcode-cn.com/problems/string-compression)  |  [压缩字符串](/solution/400-499/0443.string-compression/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [447](https://leetcode-cn.com/problems/number-of-boomerangs)  |  [回旋镖的数量](/solution/400-499/0447.number-of-boomerangs/)  |  `哈希表`  |  <font color=green>简单</font>  |
-|  [448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)  |  [找到所有数组中消失的数字](/solution/400-499/0448.find-all-numbers-disappeared-in-an-array/)  |  `数组`  |  <font color=green>简单</font>  |
+|  [448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)  |  [找到所有数组中消失的数字](/solution/400-499/0448.find-all-numbers-disappeared-in-an-array/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements)  |  [最小移动次数使数组元素相等](/solution/400-499/0453.minimum-moves-to-equal-array-elements/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [455](https://leetcode-cn.com/problems/assign-cookies)  |  [分发饼干](/solution/400-499/0455.assign-cookies/)  |  `贪心算法`  |  <font color=green>简单</font>  |
 |  [459](https://leetcode-cn.com/problems/repeated-substring-pattern)  |  [重复的子字符串](/solution/400-499/0459.repeated-substring-pattern/)  |  `字符串`  |  <font color=green>简单</font>  |

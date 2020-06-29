@@ -42,7 +42,7 @@
     - [133. 克隆图](solution/100-199/0133.clone-graph/)
     - [134. 加油站](solution/100-199/0134.gas-station/)
     - [135. 分发糖果](solution/100-199/0135.candy/)
-    - [136. 只出现一次的数字](solution/100-199/0136.single-number/)
+    - [136. 只出现一次的数字 ✅](solution/100-199/0136.single-number/)
     - [137. 只出现一次的数字 ii](solution/100-199/0137.single-number-ii/)
     - [138. 复制带随机指针的链表](solution/100-199/0138.copy-list-with-random-pointer/)
     - [139. 单词拆分](solution/100-199/0139.word-break/)
