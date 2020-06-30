@@ -444,7 +444,7 @@
 |  [71](https://leetcode-cn.com/problems/simplify-path)  |  [简化路径](/solution/1-99/0071.simplify-path/)  |  `栈`,`字符串`  |  <font color=blue>中等</font>  |
 |  [73](https://leetcode-cn.com/problems/set-matrix-zeroes)  |  [矩阵置零](/solution/1-99/0073.set-matrix-zeroes/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [74](https://leetcode-cn.com/problems/search-a-2d-matrix)  |  [搜索二维矩阵](/solution/1-99/0074.search-a-2d-matrix/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |
-|  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |
+|  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [77](https://leetcode-cn.com/problems/combinations)  |  [组合](/solution/1-99/0077.combinations/)  |  `回溯算法`  |  <font color=blue>中等</font>  |
 |  [78](https://leetcode-cn.com/problems/subsets)  |  [子集](/solution/1-99/0078.subsets/)  |  `位运算`,`数组`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [79](https://leetcode-cn.com/problems/word-search)  |  [单词搜索](/solution/1-99/0079.word-search/)  |  `数组`,`回溯算法`  |  <font color=blue>中等</font>  |

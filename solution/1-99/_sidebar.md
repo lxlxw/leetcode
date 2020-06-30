@@ -80,7 +80,7 @@
     - [72. 编辑距离](solution/1-99/0072.edit-distance/)
     - [73. 矩阵置零](solution/1-99/0073.set-matrix-zeroes/)
     - [74. 搜索二维矩阵](solution/1-99/0074.search-a-2d-matrix/)
-    - [75. 颜色分类](solution/1-99/0075.sort-colors/)
+    - [75. 颜色分类 ✅](solution/1-99/0075.sort-colors/)
     - [76. 最小覆盖子串](solution/1-99/0076.minimum-window-substring/)
     - [77. 组合](solution/1-99/0077.combinations/)
     - [78. 子集](solution/1-99/0078.subsets/)
