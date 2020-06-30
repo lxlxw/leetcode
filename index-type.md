@@ -448,7 +448,7 @@
 |  [77](https://leetcode-cn.com/problems/combinations)  |  [组合](/solution/1-99/0077.combinations/)  |  `回溯算法`  |  <font color=blue>中等</font>  |
 |  [78](https://leetcode-cn.com/problems/subsets)  |  [子集](/solution/1-99/0078.subsets/)  |  `位运算`,`数组`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [79](https://leetcode-cn.com/problems/word-search)  |  [单词搜索](/solution/1-99/0079.word-search/)  |  `数组`,`回溯算法`  |  <font color=blue>中等</font>  |
-|  [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)  |  [删除排序数组中的重复项 ii](/solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |
+|  [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)  |  [删除排序数组中的重复项 ii](/solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [81](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii)  |  [搜索旋转排序数组 ii](/solution/1-99/0081.search-in-rotated-sorted-array-ii/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |
 |  [82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii)  |  [删除排序链表中的重复元素 ii](/solution/1-99/0082.remove-duplicates-from-sorted-list-ii/)  |  `链表`  |  <font color=blue>中等</font>  |
 |  [86](https://leetcode-cn.com/problems/partition-list)  |  [分隔链表](/solution/1-99/0086.partition-list/)  |  `链表`,`双指针`  |  <font color=blue>中等</font>  |

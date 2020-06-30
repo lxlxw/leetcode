@@ -85,7 +85,7 @@
     - [77. 组合](solution/1-99/0077.combinations/)
     - [78. 子集](solution/1-99/0078.subsets/)
     - [79. 单词搜索](solution/1-99/0079.word-search/)
-    - [80. 删除排序数组中的重复项 ii](solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)
+    - [80. 删除排序数组中的重复项 ii ✅](solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)
     - [81. 搜索旋转排序数组 ii](solution/1-99/0081.search-in-rotated-sorted-array-ii/)
     - [82. 删除排序链表中的重复元素 ii](solution/1-99/0082.remove-duplicates-from-sorted-list-ii/)
     - [83. 删除排序链表中的重复元素 ✅](solution/1-99/0083.remove-duplicates-from-sorted-list/)
