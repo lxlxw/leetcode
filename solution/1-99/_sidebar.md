@@ -91,7 +91,7 @@
     - [83. 删除排序链表中的重复元素 ✅](solution/1-99/0083.remove-duplicates-from-sorted-list/)
     - [84. 柱状图中最大的矩形](solution/1-99/0084.largest-rectangle-in-histogram/)
     - [85. 最大矩形](solution/1-99/0085.maximal-rectangle/)
-    - [86. 分隔链表](solution/1-99/0086.partition-list/)
+    - [86. 分隔链表 ✅](solution/1-99/0086.partition-list/)
     - [87. 扰乱字符串](solution/1-99/0087.scramble-string/)
     - [88. 合并两个有序数组 ✅](solution/1-99/0088.merge-sorted-array/)
     - [89. 格雷编码](solution/1-99/0089.gray-code/)

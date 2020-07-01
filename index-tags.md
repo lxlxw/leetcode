@@ -21,6 +21,7 @@
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [189](https://leetcode-cn.com/problems/rotate-array)  |  [旋转数组](/solution/100-199/0189.rotate-array/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
@@ -39,6 +40,7 @@
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)  |  [反转字符串中的单词 iii](/solution/500-599/0557.reverse-words-in-a-string-iii/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 
 #### **数学**
 
@@ -86,9 +88,11 @@
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)  |  [删除排序数组中的重复项 ii](/solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
+|  [86](https://leetcode-cn.com/problems/partition-list)  |  [分隔链表](/solution/1-99/0086.partition-list/)  |  `链表`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
+|  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
@@ -100,6 +104,7 @@
 |  [2](https://leetcode-cn.com/problems/add-two-numbers)  |  [两数相加](/solution/1-99/0002.add-two-numbers/)  |  `链表`,`数学`  |  <font color=blue>中等</font>  |✅ |
 |  [21](https://leetcode-cn.com/problems/merge-two-sorted-lists)  |  [合并两个有序链表](/solution/1-99/0021.merge-two-sorted-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 |  [83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list)  |  [删除排序链表中的重复元素](/solution/1-99/0083.remove-duplicates-from-sorted-list/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
+|  [86](https://leetcode-cn.com/problems/partition-list)  |  [分隔链表](/solution/1-99/0086.partition-list/)  |  `链表`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [160](https://leetcode-cn.com/problems/intersection-of-two-linked-lists)  |  [相交链表](/solution/100-199/0160.intersection-of-two-linked-lists/)  |  `链表`  |  <font color=green>简单</font>  |✅ |
 
 #### **二分查找**
@@ -109,6 +114,7 @@
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
+|  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 
 #### **排序**
 

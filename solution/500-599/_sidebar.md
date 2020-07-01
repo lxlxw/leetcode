@@ -63,7 +63,7 @@
     - [554. 砖墙](solution/500-599/0554.brick-wall/)
     - [555. 分割连接字符串](solution/500-599/0555.split-concatenated-strings/)
     - [556. 下一个更大元素 iii](solution/500-599/0556.next-greater-element-iii/)
-    - [557. 反转字符串中的单词 iii](solution/500-599/0557.reverse-words-in-a-string-iii/)
+    - [557. 反转字符串中的单词 iii ✅](solution/500-599/0557.reverse-words-in-a-string-iii/)
     - [558. 四叉树交集](solution/500-599/0558.logical-or-of-two-binary-grids-represented-as-quad-trees/)
     - [559. n叉树的最大深度](solution/500-599/0559.maximum-depth-of-n-ary-tree/)
     - [560. 和为k的子数组](solution/500-599/0560.subarray-sum-equals-k/)
