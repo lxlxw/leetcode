@@ -1,7 +1,7 @@
 # [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n)
 
 ### 题目描述
-<!-- 这里写题目描述 -->
+
 <p>实现&nbsp;<a href="https://www.cplusplus.com/reference/valarray/pow/" target="_blank">pow(<em>x</em>, <em>n</em>)</a>&nbsp;，即计算 x 的 n 次幂函数。</p>
 
 <p><strong>示例 1:</strong></p>
@@ -32,14 +32,27 @@
 
 ### 解题思路
 
+1. 递归解法
+2. 当n等于偶数时，特殊处理下
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
-
+func myPow(x float64, n int) float64 {
+	if n == 0 {
+		return 1.00000
+	}
+	if n == 1 {
+		return x
+	}
+	if n < 0 {
+		return myPow(1.0/x, -n)
+	}
+	if n%2 != 0 {
+		return x * myPow(x, n-1)
+	}
+	return myPow(x*x, n/2)
+}
 ```
-
-<!-- tabs:end -->

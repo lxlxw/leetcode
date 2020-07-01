@@ -431,7 +431,7 @@
 |  [47](https://leetcode-cn.com/problems/permutations-ii)  |  [全排列 ii](/solution/1-99/0047.permutations-ii/)  |  `回溯算法`  |  <font color=blue>中等</font>  |
 |  [48](https://leetcode-cn.com/problems/rotate-image)  |  [旋转图像](/solution/1-99/0048.rotate-image/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
-|  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |
+|  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [54](https://leetcode-cn.com/problems/spiral-matrix)  |  [螺旋矩阵](/solution/1-99/0054.spiral-matrix/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |
 |  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |

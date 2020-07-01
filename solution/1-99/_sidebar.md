@@ -55,7 +55,7 @@
     - [47. 全排列 ii](solution/1-99/0047.permutations-ii/)
     - [48. 旋转图像](solution/1-99/0048.rotate-image/)
     - [49. 字母异位词分组 ✅](solution/1-99/0049.group-anagrams/)
-    - [50. pow(x, n)](solution/1-99/0050.powx-c-n/)
+    - [50. pow(x, n) ✅](solution/1-99/0050.powx-c-n/)
     - [51. n皇后](solution/1-99/0051.n-queens/)
     - [52. n皇后 ii](solution/1-99/0052.n-queens-ii/)
     - [53. 最大子序和](solution/1-99/0053.maximum-subarray/)
