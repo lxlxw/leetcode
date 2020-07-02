@@ -1,7 +1,7 @@
 # [69. x 的平方根](https://leetcode-cn.com/problems/sqrtx)
 
 ### 题目描述
-<!-- 这里写题目描述 -->
+
 <p>实现&nbsp;<code>int sqrt(int x)</code>&nbsp;函数。</p>
 
 <p>计算并返回&nbsp;<em>x</em>&nbsp;的平方根，其中&nbsp;<em>x </em>是非负整数。</p>
@@ -26,15 +26,36 @@
 
 ### 解题思路
 
+1. 二分查找
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
+func mySqrt(x int) int {
+	if x == 1 {
+		return 1
+	}
+	l, r := 0, x
+	for {
+		mid := (l + r) / 2
+		if mid == l {
+			return mid
+		}
+		sqr := mid * mid
+		if sqr > x {
+			r = mid
+		}
+		if sqr < x {
+			l = mid
+		}
+		if sqr == x {
+			return mid
+		}
+	}
+}
 
 ```
 
-<!-- tabs:end -->
 

@@ -33,6 +33,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [14](https://leetcode-cn.com/problems/longest-common-prefix)  |  [最长公共前缀](/solution/1-99/0014.longest-common-prefix/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [28](https://leetcode-cn.com/problems/implement-strstr)  |  [实现 strstr()](/solution/1-99/0028.implement-strstr%28%29/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
@@ -51,6 +52,7 @@
 |  [9](https://leetcode-cn.com/problems/palindrome-number)  |  [回文数](/solution/1-99/0009.palindrome-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
+|  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
@@ -113,6 +115,7 @@
 | --- | --- | --- | --- | --- |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
+|  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 
