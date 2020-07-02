@@ -137,9 +137,17 @@
 
 #### **树**
 
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+
 #### **递归**
 
 #### **深度优先搜素**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 
 #### **广度优先搜索**
 

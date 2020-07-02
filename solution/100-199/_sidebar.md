@@ -6,7 +6,7 @@
 
 - 📚&nbsp;&nbsp;题目列表
   - [100 - 199题](index-tags.md)
-    - [100. 相同的树](solution/100-199/0100.same-tree/)
+    - [100. 相同的树 ✅](solution/100-199/0100.same-tree/)
     - [101. 对称二叉树](solution/100-199/0101.symmetric-tree/)
     - [102. 二叉树的层序遍历](solution/100-199/0102.binary-tree-level-order-traversal/)
     - [103. 二叉树的锯齿形层次遍历](solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)
