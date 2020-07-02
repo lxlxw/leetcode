@@ -140,6 +140,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
 
 #### **递归**
 
@@ -148,8 +149,13 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
 
 #### **广度优先搜索**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
 
 #### **贪心算法**
 
