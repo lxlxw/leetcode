@@ -11,7 +11,7 @@
     - [202. 快乐数 ✅](solution/200-299/0202.happy-number/)
     - [203. 移除链表元素](solution/200-299/0203.remove-linked-list-elements/)
     - [204. 计数质数 ✅](solution/200-299/0204.count-primes/)
-    - [205. 同构字符串](solution/200-299/0205.isomorphic-strings/)
+    - [205. 同构字符串 ✅](solution/200-299/0205.isomorphic-strings/)
     - [206. 反转链表](solution/200-299/0206.reverse-linked-list/)
     - [207. 课程表](solution/200-299/0207.course-schedule/)
     - [208. 实现 trie (前缀树)](solution/200-299/0208.implement-trie-prefix-tree/)

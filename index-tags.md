@@ -53,6 +53,7 @@
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |✅ |
+|  [171](https://leetcode-cn.com/problems/excel-sheet-column-number)  |  [excel表列序号](/solution/100-199/0171.excel-sheet-column-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
@@ -68,6 +69,7 @@
 |  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
+|  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 

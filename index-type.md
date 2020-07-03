@@ -49,7 +49,7 @@
 |  [168](https://leetcode-cn.com/problems/excel-sheet-column-title)  |  [excel表列名称](/solution/100-199/0168.excel-sheet-column-title/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [170](https://leetcode-cn.com/problems/two-sum-iii-data-structure-design)  |  [两数之和 iii - 数据结构设计](/solution/100-199/0170.two-sum-iii---data-structure-design/)  |  `设计`,`哈希表`  |  <font color=green>简单</font>  |
-|  [171](https://leetcode-cn.com/problems/excel-sheet-column-number)  |  [excel表列序号](/solution/100-199/0171.excel-sheet-column-number/)  |  `数学`  |  <font color=green>简单</font>  |
+|  [171](https://leetcode-cn.com/problems/excel-sheet-column-number)  |  [excel表列序号](/solution/100-199/0171.excel-sheet-column-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [172](https://leetcode-cn.com/problems/factorial-trailing-zeroes)  |  [阶乘后的零](/solution/100-199/0172.factorial-trailing-zeroes/)  |  `数学`  |  <font color=green>简单</font>  |
 |  [175](https://leetcode-cn.com/problems/combine-two-tables)  |  [组合两个表](/solution/100-199/0175.combine-two-tables/)  |    |  <font color=green>简单</font>  |
 |  [176](https://leetcode-cn.com/problems/second-highest-salary)  |  [第二高的薪水](/solution/100-199/0176.second-highest-salary/)  |    |  <font color=green>简单</font>  |
@@ -67,7 +67,7 @@
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [203](https://leetcode-cn.com/problems/remove-linked-list-elements)  |  [移除链表元素](/solution/200-299/0203.remove-linked-list-elements/)  |  `链表`  |  <font color=green>简单</font>  |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
-|  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |
+|  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [206](https://leetcode-cn.com/problems/reverse-linked-list)  |  [反转链表](/solution/200-299/0206.reverse-linked-list/)  |  `链表`  |  <font color=green>简单</font>  |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |

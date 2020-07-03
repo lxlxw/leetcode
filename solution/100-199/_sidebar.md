@@ -77,7 +77,7 @@
     - [168. excel表列名称](solution/100-199/0168.excel-sheet-column-title/)
     - [169. 多数元素 ✅](solution/100-199/0169.majority-element/)
     - [170. 两数之和 iii - 数据结构设计](solution/100-199/0170.two-sum-iii---data-structure-design/)
-    - [171. excel表列序号](solution/100-199/0171.excel-sheet-column-number/)
+    - [171. excel表列序号 ✅](solution/100-199/0171.excel-sheet-column-number/)
     - [172. 阶乘后的零](solution/100-199/0172.factorial-trailing-zeroes/)
     - [173. 二叉搜索树迭代器](solution/100-199/0173.binary-search-tree-iterator/)
     - [174. 地下城游戏](solution/100-199/0174.dungeon-game/)
