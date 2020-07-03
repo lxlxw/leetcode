@@ -1,19 +1,45 @@
-# [100. xxx](https://leetcode-cn.com/problems/recover-binary-search-tree)
+# [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/description/)
 
 ### 题目描述
 
+<p>给定一个二叉树，找出其最大深度。</p>
+
+<p>二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。</p>
+
+<p><strong>说明:</strong>&nbsp;叶子节点是指没有子节点的节点。</p>
+
+<p><strong>示例：</strong><br>
+给定二叉树 <code>[3,9,20,null,null,15,7]</code>，</p>
+
+<pre>    3
+   / \
+  9  20
+    /  \
+   15   7</pre>
+
+<p>返回它的最大深度&nbsp;3 。</p>
 
 ### 解题思路
 
+1. 分治
 
 ### 具体解法
 
-<!-- tabs:start -->
-
 #### **Golang**
 ```go
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
 
+func maxDepth(root *TreeNode) int {
+	if root == nil {
+		return 0
+	}
+	left := maxDepth(root.Left)
+	right := maxDepth(root.Right)
+	return 1 + int(math.Max(float64(left), float64(right)))
+}
 ```
-
-<!-- tabs:end -->
 

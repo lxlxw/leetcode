@@ -10,7 +10,7 @@
     - [101. 对称二叉树 ✅](solution/100-199/0101.symmetric-tree/)
     - [102. 二叉树的层序遍历](solution/100-199/0102.binary-tree-level-order-traversal/)
     - [103. 二叉树的锯齿形层次遍历](solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)
-    - [104. 二叉树的最大深度](solution/100-199/0104.maximum-depth-of-binary-tree/)
+    - [104. 二叉树的最大深度 ✅](solution/100-199/0104.maximum-depth-of-binary-tree/)
     - [105. 从前序与中序遍历序列构造二叉树](solution/100-199/0105.construct-binary-tree-from-preorder-and-inorder-traversal/)
     - [106. 从中序与后序遍历序列构造二叉树](solution/100-199/0106.construct-binary-tree-from-inorder-and-postorder-traversal/)
     - [107. 二叉树的层次遍历 ii](solution/100-199/0107.binary-tree-level-order-traversal-ii/)

@@ -29,7 +29,7 @@
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
-|  [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  |  [二叉树的最大深度](/solution/100-199/0104.maximum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
+|  [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  |  [二叉树的最大深度](/solution/100-199/0104.maximum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)  |  [二叉树的层次遍历 ii](/solution/100-199/0107.binary-tree-level-order-traversal-ii/)  |  `树`,`广度优先搜索`  |  <font color=green>简单</font>  |
 |  [108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)  |  [将有序数组转换为二叉搜索树](/solution/100-199/0108.convert-sorted-array-to-binary-search-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
 |  [110](https://leetcode-cn.com/problems/balanced-binary-tree)  |  [平衡二叉树](/solution/100-199/0110.balanced-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
