@@ -1,7 +1,7 @@
 # [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image)
 
 ### 题目描述
-<!-- 这里写题目描述 -->
+
 <p>给定一个 <em>n&nbsp;</em>&times;&nbsp;<em>n</em> 的二维矩阵表示一个图像。</p>
 
 <p>将图像顺时针旋转 90 度。</p>
@@ -50,14 +50,27 @@
 
 ### 解题思路
 
+![](http://lc-photo.xwlin.com/48-1.png)
+![](http://lc-photo.xwlin.com/48-2.png)
+![](http://lc-photo.xwlin.com/48-3.png)
+![](http://lc-photo.xwlin.com/48-4.png)
+![](http://lc-photo.xwlin.com/48-5.png)
 
 ### 具体解法
 
-<!-- tabs:start -->
 
 #### **Golang**
 ```go
-
+func rotate(matrix [][]int) {
+	size := len(matrix)
+	subsize := size - 1
+	for i := 0; i < size/2; i++ {
+		for j := i; j < subsize-i; j++ {
+			matrix[i][j], matrix[j][subsize-i] = matrix[j][subsize-i], matrix[i][j]
+			matrix[i][j], matrix[subsize-i][subsize-j] = matrix[subsize-i][subsize-j], matrix[i][j]
+			matrix[i][j], matrix[subsize-j][i] = matrix[subsize-j][i], matrix[i][j]
+		}
+	}
+}
 ```
 
-<!-- tabs:end -->
