@@ -11,6 +11,7 @@
 |  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](/solution/1-99/0015.3sum/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [27](https://leetcode-cn.com/problems/remove-element)  |  [移除元素](/solution/1-99/0027.remove-element/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
+|  [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |  [在排序数组中查找元素的第一个和最后一个位置](/solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
@@ -74,6 +75,7 @@
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [290](https://leetcode-cn.com/problems/word-pattern)  |  [单词规律](/solution/200-299/0290.word-pattern/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [299](https://leetcode-cn.com/problems/bulls-and-cows)  |  [猜数字游戏](/solution/200-299/0299.bulls-and-cows/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 
 #### **栈**
 
@@ -117,6 +119,7 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
+|  [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |  [在排序数组中查找元素的第一个和最后一个位置](/solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |✅ |
