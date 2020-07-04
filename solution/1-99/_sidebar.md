@@ -39,7 +39,7 @@
     - [31. 下一个排列](solution/1-99/0031.next-permutation/)
     - [32. 最长有效括号](solution/1-99/0032.longest-valid-parentheses/)
     - [33. 搜索旋转排序数组](solution/1-99/0033.search-in-rotated-sorted-array/)
-    - [34. 在排序数组中查找元素的第一个和最后一个位置](solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)
+    - [34. 在排序数组中查找元素的第一个和最后一个位置 ✅](solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)
     - [35. 搜索插入位置 ✅](solution/1-99/0035.search-insert-position/)
     - [36. 有效的数独 ✅](solution/1-99/0036.valid-sudoku/)
     - [37. 解数独](solution/1-99/0037.sudoku-solver/)

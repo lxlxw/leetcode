@@ -105,7 +105,7 @@
     - [296. 最佳的碰头地点](solution/200-299/0296.best-meeting-point/)
     - [297. 二叉树的序列化与反序列化](solution/200-299/0297.serialize-and-deserialize-binary-tree/)
     - [298. 二叉树最长连续序列](solution/200-299/0298.binary-tree-longest-consecutive-sequence/)
-    - [299. 猜数字游戏](solution/200-299/0299.bulls-and-cows/)
+    - [299. 猜数字游戏 ✅](solution/200-299/0299.bulls-and-cows/)
 
 
 
