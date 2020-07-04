@@ -56,6 +56,7 @@
 |  [171](https://leetcode-cn.com/problems/excel-sheet-column-number)  |  [excel表列序号](/solution/100-199/0171.excel-sheet-column-number/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [202](https://leetcode-cn.com/problems/happy-number)  |  [快乐数](/solution/200-299/0202.happy-number/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
 |  [204](https://leetcode-cn.com/problems/count-primes)  |  [计数质数](/solution/200-299/0204.count-primes/)  |  `哈希表`,`数学`  |  <font color=green>简单</font>  |✅ |
+|  [258](https://leetcode-cn.com/problems/add-digits)  |  [各位相加](/solution/200-299/0258.add-digits/)  |  `数学`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 
 #### **哈希表**
@@ -72,6 +73,7 @@
 |  [205](https://leetcode-cn.com/problems/isomorphic-strings)  |  [同构字符串](/solution/200-299/0205.isomorphic-strings/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [217](https://leetcode-cn.com/problems/contains-duplicate)  |  [存在重复元素](/solution/200-299/0217.contains-duplicate/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [290](https://leetcode-cn.com/problems/word-pattern)  |  [单词规律](/solution/200-299/0290.word-pattern/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 
 #### **栈**
 
@@ -120,6 +122,7 @@
 |  [69](https://leetcode-cn.com/problems/sqrtx)  |  [x 的平方根](/solution/1-99/0069.sqrt%28x%29/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
+|  [278](https://leetcode-cn.com/problems/first-bad-version)  |  [第一个错误的版本](/solution/200-299/0278.first-bad-version/)  |  `二分查找`  |  <font color=green>简单</font>  |✅ |
 
 #### **排序**
 
@@ -177,4 +180,7 @@
 
 #### **脑筋急转弯**
 
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [292](https://leetcode-cn.com/problems/nim-game)  |  [nim 游戏](/solution/200-299/0292.nim-game/)  |  `脑筋急转弯`,`极小化极大`  |  <font color=green>简单</font>  |✅ |
 <!-- tabs:end -->
