@@ -1,3 +1,5 @@
+package leetcode
+
 /*
  * @lc app=leetcode.cn id=107 lang=golang
  *
@@ -13,7 +15,14 @@
  *     Right *TreeNode
  * }
  */
- func levelOrderBottom(root *TreeNode) [][]int {
+
+type TreeNode struct {
+	Val   int
+	Left  *TreeNode
+	Right *TreeNode
+}
+
+func levelOrderBottom(root *TreeNode) [][]int {
 	var res [][]int
 	if root == nil {
 		return res
@@ -38,5 +47,5 @@
 	}
 	return res
 }
-// @lc code=end
 
+// @lc code=end
