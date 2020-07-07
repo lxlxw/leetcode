@@ -82,6 +82,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)  |  [二叉树的锯齿形层次遍历](/solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)  |  `栈`,`树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 
 #### **堆**
 
@@ -149,8 +150,13 @@
 | --- | --- | --- | --- | --- |
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)  |  [二叉树的层次遍历](/solution/100-199/0102.binary-tree-level-order-traversal/)  |  `树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
+|  [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)  |  [二叉树的锯齿形层次遍历](/solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)  |  `栈`,`树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 |  [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  |  [二叉树的最大深度](/solution/100-199/0104.maximum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)  |  [二叉树的层次遍历 ii](/solution/100-199/0107.binary-tree-level-order-traversal-ii/)  |  `树`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 
 #### **递归**
 
@@ -161,13 +167,20 @@
 |  [100](https://leetcode-cn.com/problems/same-tree)  |  [相同的树](/solution/100-199/0100.same-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [104](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)  |  [二叉树的最大深度](/solution/100-199/0104.maximum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 
 #### **广度优先搜索**
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [101](https://leetcode-cn.com/problems/symmetric-tree)  |  [对称二叉树](/solution/100-199/0101.symmetric-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)  |  [二叉树的层次遍历](/solution/100-199/0102.binary-tree-level-order-traversal/)  |  `树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
+|  [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)  |  [二叉树的锯齿形层次遍历](/solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)  |  `栈`,`树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 |  [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)  |  [二叉树的层次遍历 ii](/solution/100-199/0107.binary-tree-level-order-traversal-ii/)  |  `树`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 
 #### **贪心算法**
 

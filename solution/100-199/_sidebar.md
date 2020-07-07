@@ -8,8 +8,8 @@
   - [100 - 199题](index-tags.md)
     - [100. 相同的树 ✅](solution/100-199/0100.same-tree/)
     - [101. 对称二叉树 ✅](solution/100-199/0101.symmetric-tree/)
-    - [102. 二叉树的层序遍历](solution/100-199/0102.binary-tree-level-order-traversal/)
-    - [103. 二叉树的锯齿形层次遍历](solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)
+    - [102. 二叉树的层序遍历 ✅](solution/100-199/0102.binary-tree-level-order-traversal/)
+    - [103. 二叉树的锯齿形层次遍历 ✅](solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)
     - [104. 二叉树的最大深度 ✅](solution/100-199/0104.maximum-depth-of-binary-tree/)
     - [105. 从前序与中序遍历序列构造二叉树](solution/100-199/0105.construct-binary-tree-from-preorder-and-inorder-traversal/)
     - [106. 从中序与后序遍历序列构造二叉树](solution/100-199/0106.construct-binary-tree-from-inorder-and-postorder-traversal/)
@@ -17,8 +17,8 @@
     - [108. 将有序数组转换为二叉搜索树](solution/100-199/0108.convert-sorted-array-to-binary-search-tree/)
     - [109. 有序链表转换二叉搜索树](solution/100-199/0109.convert-sorted-list-to-binary-search-tree/)
     - [110. 平衡二叉树](solution/100-199/0110.balanced-binary-tree/)
-    - [111. 二叉树的最小深度](solution/100-199/0111.minimum-depth-of-binary-tree/)
-    - [112. 路径总和](solution/100-199/0112.path-sum/)
+    - [111. 二叉树的最小深度 ✅](solution/100-199/0111.minimum-depth-of-binary-tree/)
+    - [112. 路径总和 ✅](solution/100-199/0112.path-sum/)
     - [113. 路径总和 ii](solution/100-199/0113.path-sum-ii/)
     - [114. 二叉树展开为链表](solution/100-199/0114.flatten-binary-tree-to-linked-list/)
     - [115. 不同的子序列](solution/100-199/0115.distinct-subsequences/)
@@ -105,7 +105,7 @@
     - [196. 删除重复的电子邮箱](solution/100-199/0196.delete-duplicate-emails/)
     - [197. 上升的温度](solution/100-199/0197.rising-temperature/)
     - [198. 打家劫舍](solution/100-199/0198.house-robber/)
-    - [199. 二叉树的右视图](solution/100-199/0199.binary-tree-right-side-view/)
+    - [199. 二叉树的右视图 ✅](solution/100-199/0199.binary-tree-right-side-view/)
       
 
 

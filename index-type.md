@@ -33,8 +33,8 @@
 |  [107](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)  |  [二叉树的层次遍历 ii](/solution/100-199/0107.binary-tree-level-order-traversal-ii/)  |  `树`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [108](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree)  |  [将有序数组转换为二叉搜索树](/solution/100-199/0108.convert-sorted-array-to-binary-search-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
 |  [110](https://leetcode-cn.com/problems/balanced-binary-tree)  |  [平衡二叉树](/solution/100-199/0110.balanced-binary-tree/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
-|  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |
-|  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |
+|  [111](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)  |  [二叉树的最小深度](/solution/100-199/0111.minimum-depth-of-binary-tree/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=green>简单</font>  |✅ |
+|  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [119](https://leetcode-cn.com/problems/pascals-triangle-ii)  |  [杨辉三角 ii](/solution/100-199/0119.pascal%27s-triangle-ii/)  |  `数组`  |  <font color=green>简单</font>  |
 |  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |
@@ -461,8 +461,8 @@
 |  [95](https://leetcode-cn.com/problems/unique-binary-search-trees-ii)  |  [不同的二叉搜索树 ii](/solution/1-99/0095.unique-binary-search-trees-ii/)  |  `树`,`动态规划`  |  <font color=blue>中等</font>  |
 |  [96](https://leetcode-cn.com/problems/unique-binary-search-trees)  |  [不同的二叉搜索树](/solution/1-99/0096.unique-binary-search-trees/)  |  `树`,`动态规划`  |  <font color=blue>中等</font>  |
 |  [98](https://leetcode-cn.com/problems/validate-binary-search-tree)  |  [验证二叉搜索树](/solution/1-99/0098.validate-binary-search-tree/)  |  `树`,`深度优先搜索`  |  <font color=blue>中等</font>  |
-|  [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)  |  [二叉树的层次遍历](/solution/100-199/0102.binary-tree-level-order-traversal/)  |  `树`,`广度优先搜索`  |  <font color=blue>中等</font>  |
-|  [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)  |  [二叉树的锯齿形层次遍历](/solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)  |  `栈`,`树`,`广度优先搜索`  |  <font color=blue>中等</font>  |
+|  [102](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)  |  [二叉树的层次遍历](/solution/100-199/0102.binary-tree-level-order-traversal/)  |  `树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
+|  [103](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)  |  [二叉树的锯齿形层次遍历](/solution/100-199/0103.binary-tree-zigzag-level-order-traversal/)  |  `栈`,`树`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 |  [105](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)  |  [从前序与中序遍历序列构造二叉树](/solution/100-199/0105.construct-binary-tree-from-preorder-and-inorder-traversal/)  |  `树`,`深度优先搜索`,`数组`  |  <font color=blue>中等</font>  |
 |  [106](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)  |  [从中序与后序遍历序列构造二叉树](/solution/100-199/0106.construct-binary-tree-from-inorder-and-postorder-traversal/)  |  `树`,`深度优先搜索`,`数组`  |  <font color=blue>中等</font>  |
 |  [109](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)  |  [有序链表转换二叉搜索树](/solution/100-199/0109.convert-sorted-list-to-binary-search-tree/)  |  `深度优先搜索`,`链表`  |  <font color=blue>中等</font>  |
@@ -507,7 +507,7 @@
 |  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [192](https://leetcode-cn.com/problems/word-frequency)  |  [统计词频](/solution/100-199/0192.word-frequency/)  |    |  <font color=blue>中等</font>  |
 |  [194](https://leetcode-cn.com/problems/transpose-file)  |  [转置文件](/solution/100-199/0194.transpose-file/)  |    |  <font color=blue>中等</font>  |
-|  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |
+|  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 |  [200](https://leetcode-cn.com/problems/number-of-islands)  |  [岛屿数量](/solution/200-299/0200.number-of-islands/)  |  `深度优先搜索`,`广度优先搜索`,`并查集`  |  <font color=blue>中等</font>  |
 |  [201](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range)  |  [数字范围按位与](/solution/200-299/0201.bitwise-and-of-numbers-range/)  |  `位运算`  |  <font color=blue>中等</font>  |
 |  [207](https://leetcode-cn.com/problems/course-schedule)  |  [课程表](/solution/200-299/0207.course-schedule/)  |  `深度优先搜索`,`广度优先搜索`,`图`,`拓扑排序`  |  <font color=blue>中等</font>  |
