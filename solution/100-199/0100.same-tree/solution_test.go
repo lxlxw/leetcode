@@ -4,12 +4,6 @@ import (
 	"testing"
 )
 
-type TreeNode struct {
-	Val   int
-	Left  *TreeNode
-	Right *TreeNode
-}
-
 func TestIsSameTree(t *testing.T) {
 	var ret bool
 
