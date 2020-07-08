@@ -58,7 +58,7 @@
     - [50. pow(x, n) ✅](solution/1-99/0050.powx-c-n/)
     - [51. n皇后](solution/1-99/0051.n-queens/)
     - [52. n皇后 ii](solution/1-99/0052.n-queens-ii/)
-    - [53. 最大子序和](solution/1-99/0053.maximum-subarray/)
+    - [53. 最大子序和 ✅](solution/1-99/0053.maximum-subarray/)
     - [54. 螺旋矩阵](solution/1-99/0054.spiral-matrix/)
     - [55. 跳跃游戏](solution/1-99/0055.jump-game/)
     - [56. 合并区间](solution/1-99/0056.merge-intervals/)
