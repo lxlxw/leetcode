@@ -27,7 +27,7 @@
     - [118. 杨辉三角 ✅](solution/100-199/0118.pascal%27s-triangle/)
     - [119. 杨辉三角 ii](solution/100-199/0119.pascal%27s-triangle-ii/)
     - [120. 三角形最小路径和](solution/100-199/0120.triangle/)
-    - [121. 买卖股票的最佳时机](solution/100-199/0121.best-time-to-buy-and-sell-stock/)
+    - [121. 买卖股票的最佳时机 ✅](solution/100-199/0121.best-time-to-buy-and-sell-stock/)
     - [122. 买卖股票的最佳时机 ii](solution/100-199/0122.best-time-to-buy-and-sell-stock-ii/)
     - [123. 买卖股票的最佳时机 iii](solution/100-199/0123.best-time-to-buy-and-sell-stock-iii/)
     - [124. 二叉树中的最大路径和](solution/100-199/0124.binary-tree-maximum-path-sum/)
