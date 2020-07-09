@@ -147,6 +147,7 @@
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [187](https://leetcode-cn.com/problems/repeated-dna-sequences)  |  [重复的dna序列](/solution/100-199/0187.repeated-dna-sequences/)  |  `位运算`,`哈希表`  |  <font color=blue>中等</font>  |✅ |
+|  [191](https://leetcode-cn.com/problems/number-of-1-bits)  |  [位1的个数](/solution/100-199/0191.number-of-1-bits/)  |  `位运算`  |  <font color=green>简单</font>  |✅ |
 |  [268](https://leetcode-cn.com/problems/missing-number)  |  [缺失数字](/solution/200-299/0268.missing-number/)  |  `位运算`,`数组`,`数学`  |  <font color=green>简单</font>  |✅ |
 
 #### **树**
