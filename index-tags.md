@@ -14,11 +14,13 @@
 |  [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |  [在排序数组中查找元素的第一个和最后一个位置](/solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  |  [最大子序和](/solution/1-99/0053.maximum-subarray/)  |  `数组`,`分治算法`,`动态规划`  |  <font color=green>简单</font>  |✅ |
+|  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii)  |  [删除排序数组中的重复项 ii](/solution/1-99/0080.remove-duplicates-from-sorted-array-ii/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [88](https://leetcode-cn.com/problems/merge-sorted-array)  |  [合并两个有序数组](/solution/1-99/0088.merge-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
+|  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |✅ |
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [169](https://leetcode-cn.com/problems/majority-element)  |  [多数元素](/solution/100-199/0169.majority-element/)  |  `位运算`,`数组`,`分治算法`  |  <font color=green>简单</font>  |✅ |
 |  [189](https://leetcode-cn.com/problems/rotate-array)  |  [旋转数组](/solution/100-199/0189.rotate-array/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
@@ -133,7 +135,9 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
+|  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
+
 #### **队列**
 
 #### **位运算**
@@ -192,6 +196,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  |  [最大子序和](/solution/1-99/0053.maximum-subarray/)  |  `数组`,`分治算法`,`动态规划`  |  <font color=green>简单</font>  |✅ |
+|  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |✅ |
 
 #### **分治算法**
 

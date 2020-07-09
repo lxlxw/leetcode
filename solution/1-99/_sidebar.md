@@ -61,7 +61,7 @@
     - [53. 最大子序和 ✅](solution/1-99/0053.maximum-subarray/)
     - [54. 螺旋矩阵](solution/1-99/0054.spiral-matrix/)
     - [55. 跳跃游戏](solution/1-99/0055.jump-game/)
-    - [56. 合并区间](solution/1-99/0056.merge-intervals/)
+    - [56. 合并区间 ✅](solution/1-99/0056.merge-intervals/)
     - [57. 插入区间](solution/1-99/0057.insert-interval/)
     - [58. 最后一个单词的长度 ✅](solution/1-99/0058.length-of-last-word/)
     - [59. 螺旋矩阵 ii](solution/1-99/0059.spiral-matrix-ii/)

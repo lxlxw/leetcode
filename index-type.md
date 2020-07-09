@@ -37,7 +37,7 @@
 |  [112](https://leetcode-cn.com/problems/path-sum)  |  [路径总和](/solution/100-199/0112.path-sum/)  |  `树`,`深度优先搜索`  |  <font color=green>简单</font>  |✅ |
 |  [118](https://leetcode-cn.com/problems/pascals-triangle)  |  [杨辉三角](/solution/100-199/0118.pascal%27s-triangle/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [119](https://leetcode-cn.com/problems/pascals-triangle-ii)  |  [杨辉三角 ii](/solution/100-199/0119.pascal%27s-triangle-ii/)  |  `数组`  |  <font color=green>简单</font>  |
-|  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |
+|  [121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)  |  [买卖股票的最佳时机](/solution/100-199/0121.best-time-to-buy-and-sell-stock/)  |  `数组`,`动态规划`  |  <font color=green>简单</font>  |✅ |
 |  [122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)  |  [买卖股票的最佳时机 ii](/solution/100-199/0122.best-time-to-buy-and-sell-stock-ii/)  |  `贪心算法`,`数组`  |  <font color=green>简单</font>  |
 |  [125](https://leetcode-cn.com/problems/valid-palindrome)  |  [验证回文串](/solution/100-199/0125.valid-palindrome/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
@@ -434,7 +434,7 @@
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [54](https://leetcode-cn.com/problems/spiral-matrix)  |  [螺旋矩阵](/solution/1-99/0054.spiral-matrix/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |
-|  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |
+|  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [59](https://leetcode-cn.com/problems/spiral-matrix-ii)  |  [螺旋矩阵 ii](/solution/1-99/0059.spiral-matrix-ii/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [60](https://leetcode-cn.com/problems/permutation-sequence)  |  [第k个排列](/solution/1-99/0060.permutation-sequence/)  |  `数学`,`回溯算法`  |  <font color=blue>中等</font>  |
 |  [61](https://leetcode-cn.com/problems/rotate-list)  |  [旋转链表](/solution/1-99/0061.rotate-list/)  |  `链表`,`双指针`  |  <font color=blue>中等</font>  |
