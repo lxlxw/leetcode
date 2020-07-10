@@ -97,7 +97,7 @@
     - [188. 买卖股票的最佳时机 iv](solution/100-199/0188.best-time-to-buy-and-sell-stock-iv/)
     - [189. 旋转数组 ✅](solution/100-199/0189.rotate-array/)
     - [190. 颠倒二进制位](solution/100-199/0190.reverse-bits/)
-    - [191. 位1的个数](solution/100-199/0191.number-of-1-bits/)
+    - [191. 位1的个数 ✅](solution/100-199/0191.number-of-1-bits/)
     - [192. 统计词频](solution/100-199/0192.word-frequency/)
     - [193. 有效电话号码](solution/100-199/0193.valid-phone-numbers/)
     - [194. 转置文件](solution/100-199/0194.transpose-file/)
