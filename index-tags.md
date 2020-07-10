@@ -79,6 +79,7 @@
 |  [219](https://leetcode-cn.com/problems/contains-duplicate-ii)  |  [存在重复元素 ii](/solution/200-299/0219.contains-duplicate-ii/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [290](https://leetcode-cn.com/problems/word-pattern)  |  [单词规律](/solution/200-299/0290.word-pattern/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [299](https://leetcode-cn.com/problems/bulls-and-cows)  |  [猜数字游戏](/solution/200-299/0299.bulls-and-cows/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
+|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 
 #### **栈**
 
@@ -108,6 +109,7 @@
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
+|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 
 #### **链表**
 
@@ -130,6 +132,7 @@
 |  [167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)  |  [两数之和 ii - 输入有序数组](/solution/100-199/0167.two-sum-ii---input-array-is-sorted/)  |  `数组`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [209](https://leetcode-cn.com/problems/minimum-size-subarray-sum)  |  [长度最小的子数组](/solution/200-299/0209.minimum-size-subarray-sum/)  |  `数组`,`双指针`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [278](https://leetcode-cn.com/problems/first-bad-version)  |  [第一个错误的版本](/solution/200-299/0278.first-bad-version/)  |  `二分查找`  |  <font color=green>简单</font>  |✅ |
+|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 
 #### **排序**
 
@@ -137,6 +140,7 @@
 | --- | --- | --- | --- | --- |
 |  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
+|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 
 #### **队列**
 

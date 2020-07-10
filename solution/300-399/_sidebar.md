@@ -55,7 +55,7 @@
     - [346. 数据流中的移动平均值](solution/300-399/0346.moving-average-from-data-stream/)
     - [347. 前 k 个高频元素](solution/300-399/0347.top-k-frequent-elements/)
     - [348. 判定井字棋胜负](solution/300-399/0348.design-tic-tac-toe/)
-    - [349. 两个数组的交集](solution/300-399/0349.intersection-of-two-arrays/)
+    - [349. 两个数组的交集 ✅](solution/300-399/0349.intersection-of-two-arrays/)
     - [350. 两个数组的交集 ii](solution/300-399/0350.intersection-of-two-arrays-ii/)
     - [351. 安卓系统手势解锁](solution/300-399/0351.android-unlock-patterns/)
     - [352. 将数据流变为多个不相交区间](solution/300-399/0352.data-stream-as-disjoint-intervals/)

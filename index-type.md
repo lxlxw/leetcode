@@ -103,7 +103,7 @@
 |  [344](https://leetcode-cn.com/problems/reverse-string)  |  [反转字符串](/solution/300-399/0344.reverse-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)  |  [反转字符串中的元音字母](/solution/300-399/0345.reverse-vowels-of-a-string/)  |  `双指针`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [346](https://leetcode-cn.com/problems/moving-average-from-data-stream)  |  [数据流中的移动平均值](/solution/300-399/0346.moving-average-from-data-stream/)  |  `设计`,`队列`  |  <font color=green>简单</font>  |
-|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |
+|  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [350](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)  |  [两个数组的交集 ii](/solution/300-399/0350.intersection-of-two-arrays-ii/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |
 |  [359](https://leetcode-cn.com/problems/logger-rate-limiter)  |  [日志速率限制器](/solution/300-399/0359.logger-rate-limiter/)  |  `设计`,`哈希表`  |  <font color=green>简单</font>  |
 |  [367](https://leetcode-cn.com/problems/valid-perfect-square)  |  [有效的完全平方数](/solution/300-399/0367.valid-perfect-square/)  |  `数学`,`二分查找`  |  <font color=green>简单</font>  |
