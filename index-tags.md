@@ -80,6 +80,7 @@
 |  [290](https://leetcode-cn.com/problems/word-pattern)  |  [单词规律](/solution/200-299/0290.word-pattern/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [299](https://leetcode-cn.com/problems/bulls-and-cows)  |  [猜数字游戏](/solution/200-299/0299.bulls-and-cows/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [349](https://leetcode-cn.com/problems/intersection-of-two-arrays)  |  [两个数组的交集](/solution/300-399/0349.intersection-of-two-arrays/)  |  `排序`,`哈希表`,`双指针`,`二分查找`  |  <font color=green>简单</font>  |✅ |
+|  [409](https://leetcode-cn.com/problems/longest-palindrome)  |  [最长回文串](/solution/400-499/0409.longest-palindrome/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 
 #### **栈**
 
