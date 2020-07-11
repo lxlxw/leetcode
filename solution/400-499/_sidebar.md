@@ -15,7 +15,7 @@
     - [406. 根据身高重建队列](solution/400-499/0406.queue-reconstruction-by-height/)
     - [407. 接雨水 ii](solution/400-499/0407.trapping-rain-water-ii/)
     - [408. 有效单词缩写](solution/400-499/0408.valid-word-abbreviation/)
-    - [409. 最长回文串](solution/400-499/0409.longest-palindrome/)
+    - [409. 最长回文串 ✅](solution/400-499/0409.longest-palindrome/)
     - [410. 分割数组的最大值](solution/400-499/0410.split-array-largest-sum/)
     - [411. 最短特异单词缩写](solution/400-499/0411.minimum-unique-word-abbreviation/)
     - [412. fizz buzz](solution/400-499/0412.fizz-buzz/)
