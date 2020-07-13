@@ -15,7 +15,7 @@
     - [506. 相对名次](solution/500-599/0506.relative-ranks/)
     - [507. 完美数](solution/500-599/0507.perfect-number/)
     - [508. 出现次数最多的子树元素和](solution/500-599/0508.most-frequent-subtree-sum/)
-    - [509. 斐波那契数](solution/500-599/0509.fibonacci-number/)
+    - [509. 斐波那契数 ✅](solution/500-599/0509.fibonacci-number/)
     - [510. 二叉搜索树中的中序后继 ii](solution/500-599/0510.inorder-successor-in-bst-ii/)
     - [511. 游戏玩法分析 i](solution/500-599/0511.game-play-analysis-i/)
     - [512. 游戏玩法分析 ii](solution/500-599/0512.game-play-analysis-ii/)

@@ -14,6 +14,7 @@
 |  [34](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)  |  [在排序数组中查找元素的第一个和最后一个位置](/solution/1-99/0034.find-first-and-last-position-of-element-in-sorted-array/)  |  `数组`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [35](https://leetcode-cn.com/problems/search-insert-position)  |  [搜索插入位置](/solution/1-99/0035.search-insert-position/)  |  `数组`,`二分查找`  |  <font color=green>简单</font>  |✅ |
 |  [53](https://leetcode-cn.com/problems/maximum-subarray)  |  [最大子序和](/solution/1-99/0053.maximum-subarray/)  |  `数组`,`分治算法`,`动态规划`  |  <font color=green>简单</font>  |✅ |
+|  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [66](https://leetcode-cn.com/problems/plus-one)  |  [加一](/solution/1-99/0066.plus-one/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [75](https://leetcode-cn.com/problems/sort-colors)  |  [颜色分类](/solution/1-99/0075.sort-colors/)  |  `排序`,`数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
@@ -31,6 +32,7 @@
 |  [283](https://leetcode-cn.com/problems/move-zeroes)  |  [移动零](/solution/200-299/0283.move-zeroes/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
 |  [414](https://leetcode-cn.com/problems/third-maximum-number)  |  [第三大的数](/solution/400-499/0414.third-maximum-number/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [485](https://leetcode-cn.com/problems/max-consecutive-ones)  |  [最大连续1的个数](/solution/400-499/0485.max-consecutive-ones/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
+|  [509](https://leetcode-cn.com/problems/fibonacci-number)  |  [斐波那契数](/solution/500-599/0509.fibonacci-number/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 
 #### **字符串**
 
@@ -194,6 +196,10 @@
 |  [199](https://leetcode-cn.com/problems/binary-tree-right-side-view)  |  [二叉树的右视图](/solution/100-199/0199.binary-tree-right-side-view/)  |  `树`,`深度优先搜索`,`广度优先搜索`  |  <font color=blue>中等</font>  |✅ |
 
 #### **贪心算法**
+
+|  题号  |  题解  |  标签  | 难度  | 是否解题 |
+| --- | --- | --- | --- | --- |
+|  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |✅ |
 
 #### **二叉搜索树**
 

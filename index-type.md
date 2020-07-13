@@ -144,7 +144,7 @@
 |  [504](https://leetcode-cn.com/problems/base-7)  |  [七进制数](/solution/500-599/0504.base-7/)  |    |  <font color=green>简单</font>  |
 |  [506](https://leetcode-cn.com/problems/relative-ranks)  |  [相对名次](/solution/500-599/0506.relative-ranks/)  |    |  <font color=green>简单</font>  |
 |  [507](https://leetcode-cn.com/problems/perfect-number)  |  [完美数](/solution/500-599/0507.perfect-number/)  |  `数学`  |  <font color=green>简单</font>  |
-|  [509](https://leetcode-cn.com/problems/fibonacci-number)  |  [斐波那契数](/solution/500-599/0509.fibonacci-number/)  |  `数组`  |  <font color=green>简单</font>  |
+|  [509](https://leetcode-cn.com/problems/fibonacci-number)  |  [斐波那契数](/solution/500-599/0509.fibonacci-number/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
 |  [511](https://leetcode-cn.com/problems/game-play-analysis-i)  |  [游戏玩法分析 i](/solution/500-599/0511.game-play-analysis-i/)  |    |  <font color=green>简单</font>  |
 |  [512](https://leetcode-cn.com/problems/game-play-analysis-ii)  |  [游戏玩法分析 ii](/solution/500-599/0512.game-play-analysis-ii/)  |    |  <font color=green>简单</font>  |
 |  [520](https://leetcode-cn.com/problems/detect-capital)  |  [检测大写字母](/solution/500-599/0520.detect-capital/)  |  `字符串`  |  <font color=green>简单</font>  |
@@ -433,7 +433,7 @@
 |  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [50](https://leetcode-cn.com/problems/powx-n)  |  [pow(x, n)](/solution/1-99/0050.pow%28x%2c-n%29/)  |  `数学`,`二分查找`  |  <font color=blue>中等</font>  |✅ |
 |  [54](https://leetcode-cn.com/problems/spiral-matrix)  |  [螺旋矩阵](/solution/1-99/0054.spiral-matrix/)  |  `数组`  |  <font color=blue>中等</font>  |
-|  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |
+|  [55](https://leetcode-cn.com/problems/jump-game)  |  [跳跃游戏](/solution/1-99/0055.jump-game/)  |  `贪心算法`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [56](https://leetcode-cn.com/problems/merge-intervals)  |  [合并区间](/solution/1-99/0056.merge-intervals/)  |  `排序`,`数组`  |  <font color=blue>中等</font>  |✅ |
 |  [59](https://leetcode-cn.com/problems/spiral-matrix-ii)  |  [螺旋矩阵 ii](/solution/1-99/0059.spiral-matrix-ii/)  |  `数组`  |  <font color=blue>中等</font>  |
 |  [60](https://leetcode-cn.com/problems/permutation-sequence)  |  [第k个排列](/solution/1-99/0060.permutation-sequence/)  |  `数学`,`回溯算法`  |  <font color=blue>中等</font>  |
