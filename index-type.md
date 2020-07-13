@@ -406,7 +406,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [2](https://leetcode-cn.com/problems/add-two-numbers)  |  [两数相加](/solution/1-99/0002.add-two-numbers/)  |  `链表`,`数学`  |  <font color=blue>中等</font>  |✅ |
-|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  |  [无重复字符的最长子串](/solution/1-99/0003.longest-substring-without-repeating-characters/)  |  `哈希表`,`双指针`,`字符串`  |  <font color=blue>中等</font>  |
+|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  |  [无重复字符的最长子串](/solution/1-99/0003.longest-substring-without-repeating-characters/)  |  `哈希表`,`双指针`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [5](https://leetcode-cn.com/problems/longest-palindromic-substring)  |  [最长回文子串](/solution/1-99/0005.longest-palindromic-substring/)  |  `字符串`,`动态规划`  |  <font color=blue>中等</font>  |
 |  [6](https://leetcode-cn.com/problems/zigzag-conversion)  |  [z 字形变换](/solution/1-99/0006.zigzag-conversion/)  |  `字符串`  |  <font color=blue>中等</font>  |
 |  [8](https://leetcode-cn.com/problems/string-to-integer-atoi)  |  [字符串转换整数 (atoi)](/solution/1-99/0008.string-to-integer-%28atoi%29/)  |  `数学`,`字符串`  |  <font color=blue>中等</font>  |

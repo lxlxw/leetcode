@@ -33,8 +33,53 @@
 
 ### 具体解法
 
+<!-- tabs:start -->
 
-#### **Golang**
+#### **Golang1**
 ```go
-
+func lengthOfLongestSubstring1(s string) int {
+	var res int
+	for i := range s {
+		sMap := make(map[byte]bool)
+		q := 0
+		for q+i < len(s) {
+			if sMap[s[q+i]] {
+				break
+			} else {
+				sMap[s[q+i]] = true
+			}
+			q++
+		}
+		if q > res {
+			res = q
+		}
+		if q >= len(s)-i {
+			break
+		}
+	}
+	return res
+}
 ```
+
+#### **Golang2**
+```go
+func lengthOfLongestSubstring(s string) int {
+	m, max, left := make(map[rune]int), 0, 0
+	for idx, c := range s {
+		if _, okay := m[c]; okay == true && m[c] >= left {
+			if idx-left > max {
+				max = idx - left
+			}
+			left = m[c] + 1
+		}
+		m[c] = idx
+	}
+	if len(s)-left > max {
+		max = len(s) - left
+	}
+	return max
+}
+```
+
+<!-- tabs:end -->
+

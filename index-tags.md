@@ -38,6 +38,7 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
+|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  |  [无重复字符的最长子串](/solution/1-99/0003.longest-substring-without-repeating-characters/)  |  `哈希表`,`双指针`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [13](https://leetcode-cn.com/problems/roman-to-integer)  |  [罗马数字转整数](/solution/1-99/0013.roman-to-integer/)  |  `数学`,`字符串`  |  <font color=green>简单</font>  |✅ |
 |  [14](https://leetcode-cn.com/problems/longest-common-prefix)  |  [最长公共前缀](/solution/1-99/0014.longest-common-prefix/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [20](https://leetcode-cn.com/problems/valid-parentheses)  |  [有效的括号](/solution/1-99/0020.valid-parentheses/)  |  `栈`,`字符串`  |  <font color=green>简单</font>  |✅ |
@@ -70,6 +71,7 @@
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
 |  [1](https://leetcode-cn.com/problems/two-sum)  |  [两数之和](/solution/1-99/0001.two-sum/)  |  `数组`,`哈希表`  |  <font color=green>简单</font>  | ✅ |
+|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  |  [无重复字符的最长子串](/solution/1-99/0003.longest-substring-without-repeating-characters/)  |  `哈希表`,`双指针`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [36](https://leetcode-cn.com/problems/valid-sudoku)  |  [有效的数独](/solution/1-99/0036.valid-sudoku/)  |  `哈希表`  |  <font color=blue>中等</font>  |✅ |
 |  [49](https://leetcode-cn.com/problems/group-anagrams)  |  [字母异位词分组](/solution/1-99/0049.group-anagrams/)  |  `哈希表`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [136](https://leetcode-cn.com/problems/single-number)  |  [只出现一次的数字](/solution/100-199/0136.single-number/)  |  `位运算`,`哈希表`  |  <font color=green>简单</font>  |✅ |
@@ -97,6 +99,7 @@
 
 |  题号  |  题解  |  标签  | 难度  | 是否解题 |
 | --- | --- | --- | --- | --- |
+|  [3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)  |  [无重复字符的最长子串](/solution/1-99/0003.longest-substring-without-repeating-characters/)  |  `哈希表`,`双指针`,`字符串`  |  <font color=blue>中等</font>  |✅ |
 |  [11](https://leetcode-cn.com/problems/container-with-most-water)  |  [盛最多水的容器](/solution/1-99/0011.container-with-most-water/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [15](https://leetcode-cn.com/problems/3sum)  |  [三数之和](/solution/1-99/0015.3sum/)  |  `数组`,`双指针`  |  <font color=blue>中等</font>  |✅ |
 |  [26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)  |  [删除排序数组中的重复项](/solution/1-99/0026.remove-duplicates-from-sorted-array/)  |  `数组`,`双指针`  |  <font color=green>简单</font>  |✅ |
