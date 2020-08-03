@@ -21,7 +21,7 @@
     - [412. fizz buzz](solution/400-499/0412.fizz-buzz/)
     - [413. 等差数列划分](solution/400-499/0413.arithmetic-slices/)
     - [414. 第三大的数 ✅](solution/400-499/0414.third-maximum-number/)
-    - [415. 字符串相加](solution/400-499/0415.add-strings/)
+    - [415. 字符串相加 ✅](solution/400-499/0415.add-strings/)
     - [416. 分割等和子集](solution/400-499/0416.partition-equal-subset-sum/)
     - [417. 太平洋大西洋水流问题](solution/400-499/0417.pacific-atlantic-water-flow/)
     - [418. 屏幕可显示句子的数量](solution/400-499/0418.sentence-screen-fitting/)

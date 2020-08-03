@@ -120,7 +120,7 @@
 |  [409](https://leetcode-cn.com/problems/longest-palindrome)  |  [最长回文串](/solution/400-499/0409.longest-palindrome/)  |  `哈希表`  |  <font color=green>简单</font>  |✅ |
 |  [412](https://leetcode-cn.com/problems/fizz-buzz)  |  [fizz buzz](/solution/400-499/0412.fizz-buzz/)  |    |  <font color=green>简单</font>  |
 |  [414](https://leetcode-cn.com/problems/third-maximum-number)  |  [第三大的数](/solution/400-499/0414.third-maximum-number/)  |  `数组`  |  <font color=green>简单</font>  |✅ |
-|  [415](https://leetcode-cn.com/problems/add-strings)  |  [字符串相加](/solution/400-499/0415.add-strings/)  |  `字符串`  |  <font color=green>简单</font>  |
+|  [415](https://leetcode-cn.com/problems/add-strings)  |  [字符串相加](/solution/400-499/0415.add-strings/)  |  `字符串`  |  <font color=green>简单</font>  |✅ |
 |  [422](https://leetcode-cn.com/problems/valid-word-square)  |  [有效的单词方块](/solution/400-499/0422.valid-word-square/)  |    |  <font color=green>简单</font>  |
 |  [434](https://leetcode-cn.com/problems/number-of-segments-in-a-string)  |  [字符串中的单词数](/solution/400-499/0434.number-of-segments-in-a-string/)  |  `字符串`  |  <font color=green>简单</font>  |
 |  [437](https://leetcode-cn.com/problems/path-sum-iii)  |  [路径总和 iii](/solution/400-499/0437.path-sum-iii/)  |  `树`  |  <font color=green>简单</font>  |
